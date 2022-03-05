@@ -5,6 +5,9 @@ python3 server.py Johnson &
 sleep 2s
 time_s=`date +%s` 
 python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_s}"
-pkill -f server.py
+echo '----------------------------'
+pkill -f server.py #?try to kill the servers in case of failure, ussuly this yields errs, but that's ok 
+echo '----------------------------'
+
 # netstat -tulpn | grep 10394 to find port in use
 # then kill
