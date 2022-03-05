@@ -2,12 +2,16 @@
 
 #a simple script for interminent testing 
 python3 server.py Johnson &
+python3 server.py Bernard &
+python3 server.py Juzang &
+
 sleep 2s
 time_s=`date +%s` 
 python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_s}"
+sleep 4s #let things occuer
 echo '----------------------------'
 pkill -f server.py #?try to kill the servers in case of failure, ussuly this yields errs, but that's ok 
 echo '----------------------------'
 
-# netstat -tulpn | grep 10394 to find port in use
-# then kill
+# netstat -tulpn | grep 1039 to find my ports in use
+# then kill pid

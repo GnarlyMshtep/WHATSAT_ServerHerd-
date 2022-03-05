@@ -29,8 +29,12 @@ def possibly_update_client_infos(client_name, client_timestamp, client_loc):
     """if there is more recent information about that client stored, don't update. Else, do."""
     if client_name in client_infos.keys():
         if float(client_infos[client_name][0]) < float(client_timestamp):
+            print('client_update happening in',
+                  server_name, 'for', client_name)
             client_infos[client_name] = (client_timestamp, client_loc)
     else:
+        print('client_update happening in',
+              server_name, 'for', client_name)
         client_infos[client_name] = (client_timestamp, client_loc)
 
 
@@ -40,21 +44,30 @@ async def main(port_num):
     await server.serve_forever()
 
 
-async def send_PROPAG_CMSG(to_server_name, send_count, from_server, send_ls, client_name, client_loc, client_sent_timestamp):
+async def send_PROPAG_CMSG(to_server_name, from_server, send_ls, client_name, client_loc, client_sent_timestamp):
     """
     from_server = dec_lst[1]
-    sent_ls = dec_lst[2].split(',')
+    sent_ls = dec_lst[2]
     client_name = dec_lst[3]
     client_timestamp = dec_lst[4]
     client_loc = dec_lst[5]
     """
-    reader, writer = await asyncio.open_connection('164.67.100.235', server_to_port[to_server_name])
-    writer.write(
-        f'PROPAG_CMSG {from_server} {send_ls} {send_count} {client_name} {client_loc} {client_sent_timestamp}')
+    try:
+        reader, writer = await asyncio.open_connection('164.67.100.235', server_to_port[to_server_name])
+    except Exception as ex:
+        logger.log_connection_err(to_server_name, ex, time.time())
+        return
+
+    res_str = f'PROPAG_CMSG {from_server} {send_ls} {client_name} {client_sent_timestamp} {client_loc}'
+    writer.write((res_str + '\n').encode())
+    await writer.drain()
+    logger.log_response(res_str, time.time(), f'SRV:{to_server_name}')
 
 
 async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_timestamp):
     """
+        if we got here, it means that send_ls has been checked and we should propagate -- !checking does not occur here
+
         so far, gets called in first send
 
         A flooding "algorithm" particularly optimised for our scenrio
@@ -62,7 +75,9 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
         recalling that any given server may be off, and we must transmit the packet whenever possible
     """
     for neighbor_server_name in servers_can_communic_with[server_name]:
-        await send_PROPAG_CMSG(neighbor_server_name, server_name, client_name, client_loc, client_sent_timestamp)
+        # no need to send to someone who already had it
+        if neighbor_server_name not in send_ls.split(','):
+            await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
 # we will need to read and then write to others
@@ -79,31 +94,45 @@ async def handle_connection(reader, writer):
     # if the length is not 4 (reg clinet message) and not (srver propagate message)
     if len(dec_lst) != 4 and not (len(dec_lst) == 6 and dec_lst[0] == "PROPAG_CMSG"):
         writer.write(("? " + dec_str).encode())
+        logger.log_response("? " + dec_str, time.time(), '?:?')
+
     else:  # message is of proper length, meaning that it is proper. the following could be a case table, but then default gets akward
         if dec_lst[0] == "IAMAT":  # write back for an IAMAT response
             client_name = dec_lst[1]
             client_loc = dec_lst[2]
             client_sent_timestamp = dec_lst[3]
             # check that float conversion works
-            # possibly_update_client_infos(
-            #    client_name, client_sent_timestamp, client_loc)
+            possibly_update_client_infos(
+                client_name, client_sent_timestamp, client_loc)
             # we choose to await the propagation, to avoid teh case where the client gets a response from server, and queries another server before the IAMAT has been prpagated to him
-            # await propagate_IAMAT_to_herd(server_name, client_name, client_loc, client_sent_timestamp)
-            writer.write(
-                (f'AT {server_name} {recieved_timestamp-float(client_sent_timestamp)} {client_name} {client_loc} {client_sent_timestamp}').encode())
+            # we always prop since this is the first request
+            await propagate_IAMAT_to_herd(server_name, client_name, client_loc, client_sent_timestamp)
+            res_str = f'AT {server_name} {recieved_timestamp-float(client_sent_timestamp)} {client_name} {client_loc} {client_sent_timestamp}'
+            writer.write(res_str.encode())
+            logger.log_response(res_str, time.time(), f'CLI:{client_name}')
 
         elif dec_lst[0] == "WHATSAT":
             pass
 
         elif dec_lst[0] == "PROPAG_CMSG":
-            from_server = dec_lst[1]
-            send_ls = dec_lst[2].split(',')
+            # get some vars to be explicit
+            send_ls = dec_lst[2]
             client_name = dec_lst[3]
             client_timestamp = dec_lst[4]
             client_loc = dec_lst[5]
 
-        else:  # some other invalid request
+            # update self record
+            possibly_update_client_infos(
+                client_name, client_timestamp, client_loc)
+
+            # propagate forward
+            if server_name not in send_ls.split(','):
+                await propagate_IAMAT_to_herd(
+                    send_ls+","+server_name, client_name, client_loc, client_timestamp)
+
+        else:  # some other invalid request, not sure if those are even allowed
             writer.write(("? " + dec_str).encode())
+            logger.log_response("? " + dec_str, time.time(), "?:?")
 
     await writer.drain()
     writer.close()
