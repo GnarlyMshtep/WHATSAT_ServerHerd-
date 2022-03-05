@@ -4,9 +4,6 @@ from os import system
 import sys
 
 
-server_name = "NULL" # this will be set as soon as we know
-
-
 def parse_args():
     """
     parses command line arguments to either exit the program or return server_name, server_port
@@ -33,24 +30,19 @@ def parse_args():
 
 
 class Server:
-    def __init__(self):
-        self.name, self.port = parse_args()
+    async def __init__(self):
+        self.name, self.port_num = parse_args()
+        self.server = await asyncio.start_server(self.handle_connection, host='164.67.100.235', port=self.port_num)
+        await self.server.serve_forever()
+
+    async def handle_connection(self, reader, writer):
+        data = await reader.readline()
+        name = data.decode()
+        greeting = "Zepplin does rock, " + name
+        writer.write(greeting.encode())
+        await writer.drain()
+        writer.close()
 
 
-async def main(port_num):
-    # I think host is right?
-    server = await asyncio.start_server(handle_connection, host='164.67.100.235', port=port_num)
-    await server.serve_forever()
-
-
-# we will need to read and then write to others
-async def handle_connection(reader, writer):
-    data = await reader.readline()
-    name = data.decode()
-    greeting = "Zepplin does rock, " + name
-    writer.write(greeting.encode())
-    await writer.drain()
-    writer.close()
 if __name__ == '__main__':
-    server_name, port_num = parse_args()
-    asyncio.run(main(port_num))
+    asyncio.run(Server())
