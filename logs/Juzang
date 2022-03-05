@@ -72,3 +72,94 @@ CFL, 1646516849.7778914, to: Clark, due [Errno 111] Connect call failed ('164.67
 2. REQ, 1646517054.8198001, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517054 +34.068930-118.445127
 3. CFL, 1646517054.8240657, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
 4. CFL, 1646517054.8249457, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517188.4337275, '2022-03-05 13:53:08')
+1. REQ, 1646517190.4307394, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517190 +34.068930-118.445127
+2. CFL, 1646517190.4322445, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517190.432164, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517190 +34.068930-118.445127
+4. CFL, 1646517190.4353142, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517224.7361631, '2022-03-05 13:53:44')
+1. REQ, 1646517226.7307878, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517226 +34.068930-118.445127
+2. CFL, 1646517226.732078, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517226.7330844, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517226 +34.068930-118.445127
+4. CFL, 1646517226.7354648, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517326.4727504, '2022-03-05 13:55:26')
+1. REQ, 1646517328.4334812, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+2. REQ, 1646517328.435039, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+3. CFL, 1646517328.4390273, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646517328.4398787, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646517328.555758, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+6. REQ, 1646517328.5558674, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+7. CFL, 1646517328.5581539, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+8. CFL, 1646517328.559294, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+9. REQ, 1646517328.6679072, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+10. CFL, 1646517328.6692834, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+11. REQ, 1646517328.6701007, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+12. CFL, 1646517328.6711395, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517418.2592402, '2022-03-05 13:56:58')
+1. REQ, 1646517420.2445438, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517420+12 +34.068930-118.445127
+2. CFL, 1646517420.2490351, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517420.2500706, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517420+12 +34.068930-118.445127
+
+--------------------------------------
+(1646517461.1873238, '2022-03-05 13:57:41')
+1. REQ, 1646517463.197258, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+2. CFL, 1646517463.198805, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517463.199837, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+4. CFL, 1646517463.201623, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646517463.3143222, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+6. CFL, 1646517463.3159015, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. REQ, 1646517463.3185587, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+8. CFL, 1646517463.3196063, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+9. REQ, 1646517463.4484007, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+10. CFL, 1646517463.4511585, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+11. REQ, 1646517463.4531898, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+12. CFL, 1646517463.4545584, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517617.3325813, '2022-03-05 14:00:17')
+1. REQ, 1646517619.2666767, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517619 +34.068930-118.445127
+2. CFL, 1646517619.2681966, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517619.2692497, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517619 +34.068930-118.445127
+4. CFL, 1646517619.2704926, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646517619.3804054, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+6. CFL, 1646517619.3818932, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. REQ, 1646517619.3828273, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+8. CFL, 1646517619.3842819, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517635.0498414, '2022-03-05 14:00:35')
+1. REQ, 1646517637.044774, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517636 +34.068930-118.445127
+2. CFL, 1646517637.0464919, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517637.0474453, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517636 +34.068930-118.445127
+4. CFL, 1646517637.0485673, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646517637.1760662, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+6. CFL, 1646517637.1777973, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. REQ, 1646517637.1795044, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+8. CFL, 1646517637.1809566, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+9. REQ, 1646517637.309511, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+10. CFL, 1646517637.311094, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+11. REQ, 1646517637.3110425, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+12. CFL, 1646517637.3138502, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646517736.4870276, '2022-03-05 14:02:16')
+1. REQ, 1646517738.4657996, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517738 +34.068930-118.445127
+2. CFL, 1646517738.4680164, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646517738.4731882, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517738 +34.068930-118.445127
+4. CFL, 1646517738.4745018, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646517738.6133206, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517740 +34.068930-118.445127
+6. CFL, 1646517738.6158504, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. REQ, 1646517738.618213, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517740 +34.068930-118.445127
+8. CFL, 1646517738.6268985, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+9. REQ, 1646517738.7585344, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517742 +34.068930-118.445127
+10. CFL, 1646517738.7611046, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+11. REQ, 1646517738.7626235, PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517742 +34.068930-118.445127
+12. CFL, 1646517738.764183, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)

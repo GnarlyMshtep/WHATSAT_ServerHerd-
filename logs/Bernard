@@ -65,3 +65,78 @@ CFL, 1646516849.7731366, to: Jaquez, due [Errno 111] Connect call failed ('164.6
 1. REQ, 1646517054.817806, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517054 +34.068930-118.445127
 2. RES, 1646517054.8196332, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517054 +34.068930-118.445127
 3. CFL, 1646517054.8213532, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517188.4330873, '2022-03-05 13:53:08')
+1. REQ, 1646517190.4295998, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517190 +34.068930-118.445127
+2. RES, 1646517190.4309504, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517190 +34.068930-118.445127
+3. CFL, 1646517190.4330735, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517224.7371173, '2022-03-05 13:53:44')
+1. REQ, 1646517226.7296062, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517226 +34.068930-118.445127
+2. RES, 1646517226.7312462, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517226 +34.068930-118.445127
+3. CFL, 1646517226.7322204, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517326.4724739, '2022-03-05 13:55:26')
+1. REQ, 1646517328.4323003, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+2. RES, 1646517328.4335103, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+3. CFL, 1646517328.434395, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+4. REQ, 1646517328.5545805, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+5. RES, 1646517328.5557601, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+6. CFL, 1646517328.5566638, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+7. REQ, 1646517328.6667783, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+8. RES, 1646517328.6684282, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517328 +34.068930-118.445127
+9. CFL, 1646517328.6693025, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517418.2594619, '2022-03-05 13:56:58')
+1. REQ, 1646517420.243523, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517420+12 +34.068930-118.445127
+2. RES, 1646517420.24629, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517420+12 +34.068930-118.445127
+3. CFL, 1646517420.2472093, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517461.186037, '2022-03-05 13:57:41')
+1. REQ, 1646517463.1960247, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+2. RES, 1646517463.1978137, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+3. CFL, 1646517463.1991644, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+4. REQ, 1646517463.3130932, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+5. RES, 1646517463.3147128, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+6. CFL, 1646517463.3162422, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+7. REQ, 1646517463.4468522, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+8. RES, 1646517463.4489381, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517463 +34.068930-118.445127
+9. CFL, 1646517463.4504411, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517617.3333933, '2022-03-05 14:00:17')
+1. REQ, 1646517619.265679, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517619 +34.068930-118.445127
+2. RES, 1646517619.2673323, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517619 +34.068930-118.445127
+3. CFL, 1646517619.268576, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+4. REQ, 1646517619.3795826, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+5. RES, 1646517619.3813868, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+6. CFL, 1646517619.3827074, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517635.0560632, '2022-03-05 14:00:35')
+1. REQ, 1646517637.0434537, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517636 +34.068930-118.445127
+2. RES, 1646517637.0454028, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517636 +34.068930-118.445127
+3. CFL, 1646517637.0466335, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+4. REQ, 1646517637.1746976, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+5. RES, 1646517637.1773682, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+6. CFL, 1646517637.1787467, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+7. REQ, 1646517637.3075035, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 2 +34.068930-118.445127
+8. RES, 1646517637.3097355, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 2 +34.068930-118.445127
+9. CFL, 1646517637.3114045, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646517736.4872255, '2022-03-05 14:02:16')
+1. REQ, 1646517738.4646325, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517738 +34.068930-118.445127
+2. RES, 1646517738.4661622, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517738 +34.068930-118.445127
+3. CFL, 1646517738.4724634, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+4. REQ, 1646517738.6119306, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517740 +34.068930-118.445127
+5. RES, 1646517738.6137817, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517740 +34.068930-118.445127
+6. CFL, 1646517738.6150267, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+7. REQ, 1646517738.7566018, PROPAG_CMSG Johnson Johnson kiwi.cs.ucla.edu 1646517742 +34.068930-118.445127
+8. RES, 1646517738.7590055, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard kiwi.cs.ucla.edu 1646517742 +34.068930-118.445127
+9. CFL, 1646517738.7613447, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)

@@ -29,13 +29,15 @@ def possibly_update_client_infos(client_name, client_timestamp, client_loc):
     """if there is more recent information about that client stored, don't update. Else, do."""
     if client_name in client_infos.keys():
         if float(client_infos[client_name][0]) < float(client_timestamp):
-            print('client_update happening in',
-                  server_name, 'for', client_name)
+
             client_infos[client_name] = (client_timestamp, client_loc)
+            print('client_update happening in',
+                  server_name, 'for', client_name, client_infos)
     else:
+        client_infos[client_name] = (
+            client_timestamp, client_loc)
         print('client_update happening in',
-              server_name, 'for', client_name)
-        client_infos[client_name] = (client_timestamp, client_loc)
+              server_name, 'for', client_name, client_infos)
 
 
 async def main(port_num):

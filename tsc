@@ -6,8 +6,13 @@ python3 server.py Bernard &
 python3 server.py Juzang &
 
 sleep 2s
-time_s=`date +%s` 
-python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_s}"
+time_1=`date +%s` 
+python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_1}" 
+(( time_2 = time_1 + 2 ))
+python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_2}" 
+(( time_3 = time_2 + 2 ))
+python3 client.py 10394 "IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 ${time_3}"
+
 sleep 4s #let things occuer
 echo '----------------------------'
 pkill -f server.py #?try to kill the servers in case of failure, ussuly this yields errs, but that's ok 
