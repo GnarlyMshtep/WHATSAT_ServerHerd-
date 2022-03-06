@@ -15,35 +15,37 @@ server_to_port = {
     "Clark": 10395,
 }
 servers_can_communic_with = {
-    "Juzang": ["Clark"],
+    "Juzang": ["Clark", "Johnson", "Bernard"],
     "Bernard": ["Juzang", "Jaquez", "Johnson"],
-    "Jaquez":  ["Clark", "Johnson"],
+    "Jaquez":  ["Clark", "Bernard"],
     "Johnson": ["Bernard", "Juzang"],
-    "Clark": ["Juzang",  "Jaquez"],
+    "Clark": ["Jaquez", "Juzang"],
 }
 all_srv_names = ["Juzang", "Bernard", "Jaquez", "Johnson", "Clark"]
 
 logger = Logger()
 
 
-def possibly_update_client_infos(client_name, client_timestamp, client_loc):
+def possibly_update_client_infos(client_name, client_timestamp, client_loc, orig_recieving_server):
     """if there is more recent information about that client stored, don't update. Else, do."""
     if client_name in client_infos.keys():
         if float(client_infos[client_name][0]) < float(client_timestamp):
 
-            client_infos[client_name] = (client_timestamp, client_loc)
-            print('client_update happening in',
-                  server_name, 'for', client_name, client_infos)
+            client_infos[client_name] = (
+                client_timestamp, client_loc, orig_recieving_server)
+            # print('client_update happening in',
+            #      server_name, 'for', client_name, client_infos)
     else:
         client_infos[client_name] = (
-            client_timestamp, client_loc)
-        print('client_update happening in',
-              server_name, 'for', client_name, client_infos)
+            client_timestamp, client_loc, orig_recieving_server)
+        # print('client_update happening in',
+        #      server_name, 'for', client_name, client_infos)
 
 
 async def main(port_num):
     # I think host is right?
-    server = await asyncio.start_server(handle_connection, host='164.67.100.235', port=port_num)
+    logger.log_debug(f'In main!', time.time())
+    server = await asyncio.start_server(handle_connection, host='127.0.0.1', port=port_num)
     await server.serve_forever()
 
 
@@ -56,7 +58,7 @@ async def send_PROPAG_CMSG(to_server_name, from_server, send_ls, client_name, cl
     client_loc = dec_lst[5]
     """
     try:
-        reader, writer = await asyncio.open_connection('164.67.100.235', server_to_port[to_server_name])
+        reader, writer = await asyncio.open_connection('127.0.0.1', server_to_port[to_server_name])
     except Exception as ex:
         logger.log_connection_err(to_server_name, ex, time.time())
         return
@@ -87,24 +89,29 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
             await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
-async def decode_stream(reader):
+async def ret_full_strm(reader):
+    """DEPRACTED"""
     data = bytearray()
-    while True:
-        chunk = (await reader.readline()).strip()
+    while not reader.at_eof():
+        try:
+            chunk = (await reader.readline()).strip()
+        except Exception as e:
+            print('EXCEPTION', e)
+
         print('here', chunk)
         if not chunk:
             print('breaking!')
             break
         data += chunk
     print('here2')
-    return data.decode()
+    return data
 
 
 async def handle_connection(reader: asyncio.StreamReader, writer):
+    logger.log_debug(
+        'I recieved a request! currently in handle_connection', time.time())
     recieved_timestamp = time.time()
-
-    # !we would lie to read all -- there's a chance this is not equivelent to readline, we ussuly only have a line...
-    data = await reader.readline()
+    data = await reader.read()  # works if client adds an EOF, gurenteed by @257
     dec_str = data.decode()
     logger.log_request(dec_str, recieved_timestamp)
     dec_lst = dec_str.strip().split()  # two sources of truth, not super good
@@ -122,11 +129,11 @@ async def handle_connection(reader: asyncio.StreamReader, writer):
             client_sent_timestamp = dec_lst[3]
             # check that float conversion works
             possibly_update_client_infos(
-                client_name, client_sent_timestamp, client_loc)
+                client_name, client_sent_timestamp, client_loc, server_name)
             # we choose to await the propagation, to avoid teh case where the client gets a response from server, and queries another server before the IAMAT has been prpagated to him
             # we always prop since this is the first request
             await propagate_IAMAT_to_herd(server_name, client_name, client_loc, client_sent_timestamp)
-            res_str = f'AT {server_name} {recieved_timestamp-float(client_sent_timestamp)} {client_name} {client_loc} {client_sent_timestamp}'
+            res_str = f'AT {client_infos[client_name][2]} {recieved_timestamp-float(client_sent_timestamp)} {client_name} {client_loc} {client_sent_timestamp}'
             writer.write(res_str.encode())
             logger.log_response(res_str, time.time(), f'CLI:{client_name}')
 
@@ -140,7 +147,7 @@ async def handle_connection(reader: asyncio.StreamReader, writer):
                     f"{client_name}'s location has not been recorded! \n Exiting...")
                 exit(1)  # !Not sure what to do
 
-            res_str = f'AT {server_name} {recieved_timestamp-float(client_infos[client_name][0])} {client_name} {client_infos[client_name][0]} {client_infos[client_name][1]}'
+            res_str = f'AT {client_infos[client_name][2]} {recieved_timestamp-float(client_infos[client_name][0])} {client_name} {client_infos[client_name][1]} {client_infos[client_name][0]}'
 
             api_res_str = await utils.make_place_req(
                 api_key, client_infos[client_name][1], client_radius, int(client_item_lim))
@@ -158,7 +165,7 @@ async def handle_connection(reader: asyncio.StreamReader, writer):
 
             # update self record
             possibly_update_client_infos(
-                client_name, client_timestamp, client_loc)
+                client_name, client_timestamp, client_loc, send_ls.split(',')[0])
 
             # propagate forward
             if server_name not in send_ls.split(','):
@@ -201,5 +208,5 @@ def parse_init_args():
 if __name__ == '__main__':
     server_name, port_num = parse_init_args()
     logger.set_server_name(server_name)
-    api_key = utils.read_api_key()
+    api_key = utils.read_api_key(logger)
     asyncio.run(main(port_num))

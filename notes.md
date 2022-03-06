@@ -16,15 +16,12 @@ As a rule of thumb, values are stored as strings and converted just at the momen
 - timestamp when logging, there will be a bit of a discrepency for network writes, but that's ok
 
 ### Before submitting
-- add another test case and run
-- all test cases are passing
-- read through specs, make sure you answer EVERY question on report 
-- test cases with floating point numbers (expect all the chease for WHATSAT)
 - check that if right length, we need not worry about wrong arguments
 - does the difference have to say "+" if it is positive?
-- *still checking about assuming all input on one line*
-- check if logger loads correctly when we are not in the same repo as logs
-- log on success connection
 - what do to if location has not yet been recorded?
--check what happens when the second lcocation num has a pos coordinate
-- which time do we use for WHATAT
+- `places_api_key.txt` must be placed on the exterior of sample submis, as of now *waiting for piazza response*
+- read through specs, make sure you answer EVERY question on report 
+- what other test cases can I run? talk to people
+
+### Need to solve
+- reading without readline a single time

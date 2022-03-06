@@ -1,11 +1,25 @@
 import json
 import aiohttp
+import logger
+import time  # for debuf
+import os
+
+u_logger = logger.Logger()
+u_logger.set_server_name('util')
+u_logger.log_debug('intiated ulogger', time.time())
 
 
-def read_api_key():
-    with open(f'./places_api_key.txt') as f:
-        x = f.readline()
-    return x
+def read_api_key(logger):
+    #u_logger.log_debug(f'in readpai_key:{os.getcwd()}', time.time())
+    try:
+        with open('sample_submission/places_api_key.secret') as f:
+            x = f.readline()
+        #u_logger.log_debug(f'api_key is {x}', time.time())
+        return x
+    except IOError as e:
+        logger.log_debug(
+            f'Error is {e}\n but probably just couldn\'t open places_api_key.txt, the servers will fail. \nExiting...', time.time())
+        exit(1)
 
 
 def parse_loc_for_http(client_loc: str):
@@ -28,5 +42,3 @@ async def make_place_req(api_key, client_loc, client_parsed_radius, client_num_i
             res = await resp.json()
             res['results'] = res['results'][0:client_num_item]
             return json.dumps(res, indent=2)
-
-

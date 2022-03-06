@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./CS131-Project-Sample-Grading-Script"
+    ]
+}

@@ -1,4 +1,4 @@
-A list of shorthands used for more efficient logging 
+A list of shorthands used for more efficient logging and nice Ctrl-f
 
 
 | Code      | Description |

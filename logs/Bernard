@@ -360,3 +360,55 @@ CFL, 1646516849.7731366, to: Jaquez, due [Errno 111] Connect call failed ('164.6
 3. RES, 1646533445.9919028, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646533445 +32.091912+34.785292
 4. SCC, 1646533445.9927464, to: Juzang
 5. CFL, 1646533445.994001, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646533713.536325, '2022-03-05 18:28:33')
+1. REQ, 1646533723.8785095, PROPAG_CMSG Johnson Johnson Eyal 1646533713 +32.091912+34.785292
+2. SOC, 1646533723.8825026, to: Juzang
+3. RES, 1646533723.8833346, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646533713 +32.091912+34.785292
+4. SCC, 1646533723.8840473, to: Juzang
+5. CFL, 1646533723.8853767, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646533839.4088795, '2022-03-05 18:30:39')
+1. REQ, 1646533882.505716, PROPAG_CMSG Johnson Johnson Eyal 1646533839 +32.091912+34.785292
+2. SOC, 1646533882.5092485, to: Juzang
+3. RES, 1646533882.5100005, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646533839 +32.091912+34.785292
+4. SCC, 1646533882.5109377, to: Juzang
+5. CFL, 1646533882.5117953, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646534127.5802538, '2022-03-05 18:35:27')
+1. REQ, 1646534132.284853, PROPAG_CMSG Johnson Johnson Eyal 1646534127 +32.091912+34.785292
+2. SOC, 1646534132.2903755, to: Juzang
+3. RES, 1646534132.2915535, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646534127 +32.091912+34.785292
+4. SCC, 1646534132.292743, to: Juzang
+5. CFL, 1646534132.2942314, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646599450.7734425, '2022-03-06 12:44:10')
+1. DBG, 1646599450.7812798, In main!
+2. DBG, 1646599450.9997268, I recieved a request! currently in handle_connection
+3. REQ, 1646599451.000545, PROPAG_CMSG Johnson Johnson Eyal 1646599450 +32.091912+34.785292
+4. SOC, 1646599451.0021665, to: Juzang
+5. RES, 1646599451.0029597, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646599450 +32.091912+34.785292
+6. SCC, 1646599451.0037663, to: Juzang
+7. CFL, 1646599451.0050488, to: Jaquez, due [Errno 111] Connect call failed ('164.67.100.235', 10393)
+
+--------------------------------------
+(1646601382.0142138, '2022-03-06 13:16:22')
+1. DBG, 1646601382.0225425, In main!
+
+--------------------------------------
+(1646601429.789587, '2022-03-06 13:17:09')
+1. DBG, 1646601429.7905385, In main!
+
+--------------------------------------
+(1646601633.470872, '2022-03-06 13:20:33')
+1. DBG, 1646601633.4719903, In main!
+2. DBG, 1646601633.7679548, I recieved a request! currently in handle_connection
+3. REQ, 1646601633.7695289, PROPAG_CMSG Johnson Johnson Eyal 1646601633 +32.091912+34.785292
+4. SOC, 1646601633.7708795, to: Juzang
+5. RES, 1646601633.7717345, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646601633 +32.091912+34.785292
+6. SCC, 1646601633.7728043, to: Juzang
+7. CFL, 1646601633.7737565, to: Jaquez, due [Errno 111] Connect call failed ('127.0.0.1', 10393)

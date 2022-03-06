@@ -1,0 +1,2604 @@
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 207, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 208, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 6, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+HELOO i AM HERE!
+
+
+
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Error is [Errno 2] No such file or directory: './places_api_key.txt'
+ but probably just couldn't open places_api_key.txt, the servers will fail. 
+Exiting...
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 209, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in read_api_key
+    logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 11, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 8, in <module>
+    u_logger.log_debug('intiated ulogger')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 12, in read_api_key
+    u_logger.log_debug('trying to get api key...')
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 14, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 19, in read_api_key
+    u_logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 14, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 19, in read_api_key
+    u_logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 14, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 19, in read_api_key
+    u_logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 14, in read_api_key
+    with open(f'./places_api_key.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './places_api_key.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 210, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 19, in read_api_key
+    u_logger.log_debug(
+TypeError: Logger.log_debug() missing 1 required positional argument: 'timestamp'
+Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<handle_connection() done, defined at /w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py:108> exception=IndexError('tuple index out of range')>
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 135, in handle_connection
+    res_str = f'AT {client_infos[client_name][2]} {recieved_timestamp-float(client_sent_timestamp)} {client_name} {client_loc} {client_sent_timestamp}'
+IndexError: tuple index out of range
+Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<handle_connection() done, defined at /w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py:108> exception=IndexError('tuple index out of range')>
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 149, in handle_connection
+    res_str = f'AT {client_infos[client_name][2]} {recieved_timestamp-float(client_infos[client_name][0])} {client_name} {client_infos[client_name][1]} {client_infos[client_name][0]}'
+IndexError: tuple index out of range
+Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<handle_connection() done, defined at /w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py:108> exception=FileNotFoundError(2, 'No such file or directory')>
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 109, in handle_connection
+    logger.log_debug(
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 51, in log_debug
+    with open(f'./logs/{self.server_name}', "a") as f:
+FileNotFoundError: [Errno 2] No such file or directory: './logs/Johnson'
+Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<handle_connection() done, defined at /w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py:109> exception=ValueError("invalid literal for int() with base 10: '5.5'")>
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 153, in handle_connection
+    api_key, client_infos[client_name][1], client_radius, int(client_item_lim))
+ValueError: invalid literal for int() with base 10: '5.5'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 211, in <module>
+    api_key = utils.read_api_key(logger)
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
+    u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
+AttributeError: module 'os' has no attribute 'cwd'

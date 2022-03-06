@@ -583,3 +583,154 @@ CFL, 1646516849.7778914, to: Clark, due [Errno 111] Connect call failed ('164.67
   ],
   "status": "OK"
 }
+
+--------------------------------------
+(1646533713.5360053, '2022-03-05 18:28:33')
+1. REQ, 1646533723.8810966, PROPAG_CMSG Johnson Johnson Eyal 1646533713 +32.091912+34.785292
+2. REQ, 1646533723.8825006, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646533713 +32.091912+34.785292
+3. CFL, 1646533723.886785, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646533723.8876684, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646533839.4133754, '2022-03-05 18:30:39')
+1. REQ, 1646533882.507857, PROPAG_CMSG Johnson Johnson Eyal 1646533839 +32.091912+34.785292
+2. REQ, 1646533882.509291, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646533839 +32.091912+34.785292
+3. CFL, 1646533882.5133853, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646533882.5141625, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646534127.580531, '2022-03-05 18:35:27')
+1. REQ, 1646534132.2904654, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646534127 +32.091912+34.785292
+2. REQ, 1646534132.2887733, PROPAG_CMSG Johnson Johnson Eyal 1646534127 +32.091912+34.785292
+3. CFL, 1646534132.2971768, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646534132.2984269, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646599450.772764, '2022-03-06 12:44:10')
+1. DBG, 1646599450.785492, In main!
+2. DBG, 1646599451.002459, I recieved a request! currently in handle_connection
+3. DBG, 1646599451.0034435, I recieved a request! currently in handle_connection
+4. REQ, 1646599451.0034032, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646599450 +32.091912+34.785292
+5. REQ, 1646599451.004174, PROPAG_CMSG Johnson Johnson Eyal 1646599450 +32.091912+34.785292
+6. CFL, 1646599451.0064826, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. CFL, 1646599451.007241, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+8. DBG, 1646599451.111513, I recieved a request! currently in handle_connection
+9. REQ, 1646599451.1122112, WHATSAT Eyal 1 1
+10. RES, 1646599451.3491445, to->(CLI:Eyal), AT Juzang 1.1122112274169922 Eyal 1646599450 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEC3QGKG7S7eZ6IaSoe03e-1Q2xizoLV3nAfIeN3qledDyFp0M4DCyCD3s6u0STyR4yyvZaGFMmerTCYNPgdgqjQ2ANuFJTHYI7juFsp5UjPGAwJdr0i2f9oA4hA6-GEGyxGLs4R1RP7VsnvqB9GoaiBpXM76eymChHz9r4DiKEFs3UpXcgpM2l1vhZLXdIBUUsNVzHhC33haTWJqDGGdM_5qe4TPQp6oL5oxDhUFaB3Q1TG81cm9X-ThKZqoXl3WLFZPGfSxd9-NkMFM7DwH25ZHC0vRd2X4FAUKPmidkvUmSjmwdba2mJzSKFxqwjPlx5EXoEOgY4CNU04y2MvTmwP_y1JGfrvM5np2H_QIvsiGu4-Z8PI9pX7fEzLYBV2HxpIlMnM16tg7DZc-9u8W000EYtbSWjbHvM7Au5vsnZW",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEBWRNC3TcgS3-b5BKbknwnZfxaI3BkuO6dV3iRhbdMtNnr3MrC6vOACjiAkwa3-feQi0tPYRE0r4Bb7sREXh8cqI4iwdSi6OsaYK7EB0BZNrWdG2r9MgIudJQY9eHXfkYdQpSrDwVcMN9_ZAzgIGUojYtF4p92w0hdqo5nyboYEHVdk",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646601382.0135431, '2022-03-06 13:16:22')
+1. DBG, 1646601382.0220377, In main!
+
+--------------------------------------
+(1646601429.7967076, '2022-03-06 13:17:09')
+1. DBG, 1646601429.7977543, In main!
+2. DBG, 1646601430.248249, I recieved a request! currently in handle_connection
+3. REQ, 1646601430.2489462, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646601633.4706688, '2022-03-06 13:20:33')
+1. DBG, 1646601633.4716942, In main!
+2. DBG, 1646601633.7710886, I recieved a request! currently in handle_connection
+3. DBG, 1646601633.7725377, I recieved a request! currently in handle_connection
+4. REQ, 1646601633.7724822, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646601633 +32.091912+34.785292
+5. REQ, 1646601633.7732875, PROPAG_CMSG Johnson Johnson Eyal 1646601633 +32.091912+34.785292
+6. CFL, 1646601633.7794847, to: Clark, due [Errno 111] Connect call failed ('127.0.0.1', 10395)
+7. CFL, 1646601633.7801836, to: Clark, due [Errno 111] Connect call failed ('127.0.0.1', 10395)
+8. DBG, 1646601633.8838716, I recieved a request! currently in handle_connection
+9. REQ, 1646601633.8845446, WHATSAT Eyal 1 1
+10. RES, 1646601634.1321032, to->(CLI:Eyal), AT Juzang 0.8845446109771729 Eyal 1646601633 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEAnIRCuA50h59cIqF_kNQ9mHaXKrrvZcmWEVssN3qT4o6FdN46oCGeaeYYBPAzJeS_fw74YexupLRrk3LVvocMocCV0O-O-0z0eRxlbPA6NPRQ_ce8JtVXjIGCNGoud81QJd-L0_ncBiIs7p6VTqHjmeyPWNRp19c9U204pgTlujSMVKE29ZV4OKGx_ICAxp9bDlaTUXGCpGYb76aqlOiAXP0uVbBcAD1BE510CMPSzVfPBILer7Emfo1RMDiRNjJeXlfoB0e7j3QRVtNrvUB6UQw19-mr5eXr5UHad6vNos9JnTI54hs2RZ_H5kcKQ4z49zd57zSe2-mQkxmhc5xSUb1DXl2V43ZDqdXL8RHf2gOiB4irZ-k3KEWQOLuem5y6McQtpJ8xViE91Abdr7qvABEovGpbYa6w6edmS3KQu",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEC-LfhynWm3aNcBGGnWaqB5SbjtCfaQSi5xodkxrosudzmurt_VGyPOCBXZfIiofgxKpld_ndcbXjylxRzw5z8XehcSdEBJUBFbDkY6xRamuGNFNEiFyTsEX-I1_pe9QWdK0YlcFoUqJTBTdJsnxoVCr_BDoRK9xE6yFafw0Pk-MZGQ",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}

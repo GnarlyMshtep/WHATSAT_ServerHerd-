@@ -1,1 +1,4 @@
-places_api_key.txt
+# ignores all .secret recursive from the current folder 
+**.secret
+*.secret 
+sample_submission/places_api_key.secret
