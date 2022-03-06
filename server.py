@@ -87,13 +87,28 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
             await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
-async def handle_connection(reader, writer):
+async def decode_stream(reader):
+    data = bytearray()
+    while True:
+        chunk = (await reader.readline()).strip()
+        print('here', chunk)
+        if not chunk:
+            print('breaking!')
+            break
+        data += chunk
+    print('here2')
+    return data.decode()
+
+
+async def handle_connection(reader: asyncio.StreamReader, writer):
     recieved_timestamp = time.time()
+
     # !we would lie to read all -- there's a chance this is not equivelent to readline, we ussuly only have a line...
     data = await reader.readline()
     dec_str = data.decode()
     logger.log_request(dec_str, recieved_timestamp)
-    dec_lst = dec_str.split()  # two sources of truth, not  super good
+    dec_lst = dec_str.strip().split()  # two sources of truth, not super good
+    print(dec_lst)
 
     # if the length is not 4 (reg clinet message) and not (srver propagate message)
     if len(dec_lst) != 4 and not (len(dec_lst) == 6 and dec_lst[0] == "PROPAG_CMSG"):

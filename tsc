@@ -9,7 +9,7 @@ sleep .5s
 time_1=`date +%s` 
 python3 client.py 10394 "IAMAT Eyal +32.091912+34.785292 ${time_1}" 
 python3 client.py 10391 "WHATSAT Eyal 1 1" 
-sleep 4s #let things occuer
+sleep 2s #let things occuer
 echo '----------------------------'
 pkill -f server.py #?try to kill the servers in case of failure, ussuly this yields errs, but that's ok 
 echo '----------------------------'

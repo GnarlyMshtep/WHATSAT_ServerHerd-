@@ -35,7 +35,7 @@ class Logger:
     def log_close_connection(self, to_server_name, timestamp):
         with open(f'./logs/{self.server_name}', "a") as f:
             f.write(
-                f'{self.count}. SCC, {timestamp}, to: {to_server_name}\\n')
+                f'{self.count}. SCC, {timestamp}, to: {to_server_name}\n')
         self.count += 1
 
     def log_connection_err(self, to_server_name, ex, timestamp):
