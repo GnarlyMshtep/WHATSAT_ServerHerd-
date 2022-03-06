@@ -193,3 +193,141 @@ CFL, 1646516849.7778914, to: Clark, due [Errno 111] Connect call failed ('164.67
 6. CFL, 1646524602.5633254, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
 7. REQ, 1646524602.5645602, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646524602 +32.091912+34.785292
 8. CFL, 1646524602.5657241, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646529088.3221536, '2022-03-05 17:11:28')
+1. REQ, 1646529088.541984, PROPAG_CMSG Johnson Johnson Eyal 1646529088 +32.091912+34.785292
+2. CFL, 1646529088.5437083, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646529088.5450087, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646529088 +32.091912+34.785292
+4. CFL, 1646529088.545989, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646529099.8173165, '2022-03-05 17:11:39')
+1. REQ, 1646529100.0901601, PROPAG_CMSG Johnson Johnson Eyal 1646529099 +32.091912+34.785292
+2. REQ, 1646529100.0926082, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646529099 +32.091912+34.785292
+3. CFL, 1646529100.0941353, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646529100.0969527, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646529122.5173244, '2022-03-05 17:12:02')
+1. REQ, 1646529122.897981, PROPAG_CMSG Johnson Johnson Eyal 1646529122 +32.091912+34.785292
+2. CFL, 1646529122.9002175, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646529122.901406, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646529122 +32.091912+34.785292
+4. CFL, 1646529122.902393, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646529123.0267704, WHATSAT Eyal 1 1
+6. RES, 1646529123.316797, to->(CLI:Eyal), AT Juzang 1.0267703533172607 Eyal 1646529122 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEBCA518nIUF7IX24J7N_CUaGhrtvLY6-lKwjOwjq3FyQ4KAZm8hezWhN96ZcVxA8QRAfv4OBB01m7WHco-cRsLjbX5ZfScpRFyIMP4yY_mr2jTraFiCbB4HNZxonEGxZOf03slJKsT7jH6X3tPas6zAKtEUeTnq-cBnbjCMe6wSmudIJOrDhmLqq3hXNAdC6IWZKeERfBVth07u6rltSc82r1LhPIF_fwVDBVjfCGWeQte0UMx2k3pB2-BfrPkT6nmxYEMDT9XZDHrTeFVRG6ffLEo68pxHSvnDgQYLzvKop-2QJdilP26ylnKjqKlsB8WFj56ZhPsB1Rl5rHU820052hj10-OOynt6ilVw3CNgFZoXomkAsVgr5Bv8ZMKIrPVNM-oeSfsfDvtiCZz0-SWdgYSugDqukLnQTy9-znJv",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEDX40NYRf2GV_NR8lIWdamBkJn8sHAGr-kRyObI2AKIfUebLSwuJzhjZSwqnR5acx4khUWxgIHbVLIi0__0KcQui4FpEXukr5_T2-PSXy-3DVzAY-4R10nehk-JDpJvn1di8zHxKS_tJazfKSTEfUGNXANjR6Uj_Ykn89cOlHtE-itk",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646530107.5047846, '2022-03-05 17:28:27')
+1. REQ, 1646530107.9327633, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646530164.5889826, '2022-03-05 17:29:24')
+1. REQ, 1646530165.0066583, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646530197.82194, '2022-03-05 17:29:57')
+1. REQ, 1646530199.3280241, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646530334.9628356, '2022-03-05 17:32:14')
+1. REQ, 1646530335.332538, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646530335 +32.091912+34.785292
+2. REQ, 1646530335.3344893, PROPAG_CMSG Johnson Johnson Eyal 1646530335 +32.091912+34.785292
+3. CFL, 1646530335.3357632, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+4. CFL, 1646530335.3371878, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646530336.4564254, WHATSAT Eyal 1 1
+6. RES, 1646530336.719097, to->(CLI:Eyal), AT Juzang 1.456425428390503 Eyal 1646530335 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uECN58vxZnBboW7mMiZNw-S-0MDfZ5QNzFtGzMtBf0vYPKn_T8m_wdq5X5CWLx9lJ7YtF15wOyJ3z9wMdmW8KyPvaktY-iQsVmuDhE_MFuQV43vBYzqqyLfXiBRNH53cUWNSaua1DXKfb9AHk5KA-TUpV1n6Pj6dQfM5oWHG2jNAtgDL37Evs4FsCv-Qv_H49rAsGxMrgsM95FcCMGPKIN_iAClvxv71OHOFN8B-X-5bzmXReOpe3jm4xl9YSBoG5lHY6E1SJ3YTC6H_yo6RvuBsSLYMVKqidEKZZzd8ehnzXghVeRWqWa6EUAe5Si-PMql9nJTXKYF5jvp-Q6wT4pfCCsw9JxpxyEUxdx2i-ELjlu3trI4xi17DwOhOfact61qFjfeJnmoywahAypAiACvVXJ21ijLZJngdpZanzUTf",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEBb9tNP-HzAq4BQ0emBjXy7N_QPa9sDqJWYR8dtzq1VItkKbNWWel9vBvGD_bR2SMKqZ8TpwVgpScs-BGcjg6swQB94XEnsb32hl09YvdIX2LMDNRDUivOxsGyhlRth5SaSfgba5aJ_GNDtngUwcE7fQ57kay9X3qVYVtGNTLYyty4L",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}

@@ -60,11 +60,15 @@ async def send_PROPAG_CMSG(to_server_name, from_server, send_ls, client_name, cl
     except Exception as ex:
         logger.log_connection_err(to_server_name, ex, time.time())
         return
+    logger.log_open_connection(to_server_name, time.time())
 
     res_str = f'PROPAG_CMSG {from_server} {send_ls} {client_name} {client_sent_timestamp} {client_loc}'
     writer.write((res_str + '\n').encode())
     await writer.drain()
     logger.log_response(res_str, time.time(), f'SRV:{to_server_name}')
+
+    writer.close()
+    logger.log_close_connection(to_server_name, time.time())
 
 
 async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_timestamp):

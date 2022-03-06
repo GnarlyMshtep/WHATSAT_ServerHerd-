@@ -28,3 +28,5 @@ async def make_place_req(api_key, client_loc, client_parsed_radius, client_num_i
             res = await resp.json()
             res['results'] = res['results'][0:client_num_item]
             return json.dumps(res, indent=2)
+
+
