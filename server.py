@@ -3,6 +3,7 @@ import datetime  # DEBUG
 import sys  # to get args
 import time  # to time when requests came
 from logger import Logger
+import utils
 
 server_name = "NULL"  # this will be set as soon as we know
 client_infos = {}
@@ -82,9 +83,6 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
             await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
-# we will need to read and then write to others
-
-
 async def handle_connection(reader, writer):
     recieved_timestamp = time.time()
     # !we would lie to read all -- there's a chance this is not equivelent to readline, we ussuly only have a line...
@@ -114,7 +112,23 @@ async def handle_connection(reader, writer):
             logger.log_response(res_str, time.time(), f'CLI:{client_name}')
 
         elif dec_lst[0] == "WHATSAT":
-            pass
+            client_name = dec_lst[1]
+            client_radius = str(float(dec_lst[2])*1000)  # mul to get to meters
+            client_item_lim = dec_lst[3]
+
+            if client_name not in client_infos.keys():
+                print(
+                    f"{client_name}'s location has not been recorded! \n Exiting...")
+                exit(1)  # !Not sure what to do
+
+            res_str = f'AT {server_name} {recieved_timestamp-float(client_infos[client_name][0])} {client_name} {client_infos[client_name][0]} {client_infos[client_name][1]}'
+
+            api_res_str = await utils.make_place_req(
+                api_key, client_infos[client_name][1], client_radius, int(client_item_lim))
+            full_res_str = res_str+"\n"+api_res_str+"\n"
+            writer.write(full_res_str.encode())
+            logger.log_response(full_res_str, time.time(),
+                                f'CLI:{client_name}')
 
         elif dec_lst[0] == "PROPAG_CMSG":
             # get some vars to be explicit
@@ -168,4 +182,5 @@ def parse_init_args():
 if __name__ == '__main__':
     server_name, port_num = parse_init_args()
     logger.set_server_name(server_name)
+    api_key = utils.read_api_key()
     asyncio.run(main(port_num))

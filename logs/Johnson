@@ -269,3 +269,436 @@ RES, 1646516849.7725863, to->(CLI:kiwi.cs.ucla.edu), AT Johnson 0.76916956901550
 14. RES, 1646517810.970179, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson spicli 1646517814 +232323-89123.122
 15. RES, 1646517810.9716709, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson spicli 1646517814 +232323-89123.122
 16. RES, 1646517810.9744527, to->(CLI:spicli), AT Johnson -3.0310165882110596 spicli +232323-89123.122 1646517814
+
+--------------------------------------
+(1646524600.7059126, '2022-03-05 15:56:40')
+1. REQ, 1646524602.4466674, IAMAT Eyal +34.068930-118.445127 1646524602
+2. RES, 1646524602.4480274, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson Eyal 1646524602 +34.068930-118.445127
+3. RES, 1646524602.4492443, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson Eyal 1646524602 +34.068930-118.445127
+4. RES, 1646524602.4504218, to->(CLI:Eyal), AT Johnson 0.4466674327850342 Eyal +34.068930-118.445127 1646524602
+5. REQ, 1646524602.5587173, IAMAT Eyal +32.091912+34.785292 1646524602
+6. RES, 1646524602.5599341, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson Eyal 1646524602 +32.091912+34.785292
+7. RES, 1646524602.5610306, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson Eyal 1646524602 +32.091912+34.785292
+8. RES, 1646524602.562225, to->(CLI:Eyal), AT Johnson 0.5587172508239746 Eyal +32.091912+34.785292 1646524602
+
+--------------------------------------
+(1646524626.8235915, '2022-03-05 15:57:06')
+1. REQ, 1646524628.627753, IAMAT Eyal +34.068930-118.445127 1646524628
+2. CFL, 1646524628.628957, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646524628.630164, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646524628.6309206, to->(CLI:Eyal), AT Johnson 0.6277530193328857 Eyal +34.068930-118.445127 1646524628
+5. REQ, 1646524628.7388792, IAMAT Eyal +32.091912+34.785292 1646524628
+6. CFL, 1646524628.740046, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+7. CFL, 1646524628.7408242, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+8. RES, 1646524628.7414663, to->(CLI:Eyal), AT Johnson 0.7388792037963867 Eyal +32.091912+34.785292 1646524628
+
+--------------------------------------
+(1646524646.9657369, '2022-03-05 15:57:26')
+1. REQ, 1646524648.802422, IAMAT Eyal +34.068930-118.445127 1646524648
+2. CFL, 1646524648.8035862, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646524648.80444, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646524648.805042, to->(CLI:Eyal), AT Johnson 0.802422046661377 Eyal +34.068930-118.445127 1646524648
+5. REQ, 1646524648.9116092, WHATSAT Eyal +32.091912+34.785292 1646524648
+
+--------------------------------------
+(1646524716.6810205, '2022-03-05 15:58:36')
+6. REQ, 1646524718.377729, IAMAT Eyal +34.068930-118.445127 1646524718
+7. CFL, 1646524718.3788173, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+8. CFL, 1646524718.3796012, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+9. RES, 1646524718.380155, to->(CLI:Eyal), AT Johnson 0.3777289390563965 Eyal +34.068930-118.445127 1646524718
+10. REQ, 1646524718.4884207, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646524722.643744, '2022-03-05 15:58:42')
+
+--------------------------------------
+(1646524734.2704499, '2022-03-05 15:58:54')
+1. REQ, 1646524736.1317725, IAMAT Eyal +34.068930-118.445127 1646524736
+2. CFL, 1646524736.1330206, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646524736.1339562, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646524736.1346946, to->(CLI:Eyal), AT Johnson 0.13177251815795898 Eyal +34.068930-118.445127 1646524736
+5. REQ, 1646524736.2421377, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646524754.8902, '2022-03-05 15:59:14')
+1. REQ, 1646524756.7328823, IAMAT Eyal +34.068930-118.445127 1646524756
+2. CFL, 1646524756.734082, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646524756.735149, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646524756.7359836, to->(CLI:Eyal), AT Johnson 0.7328822612762451 Eyal +34.068930-118.445127 1646524756
+5. REQ, 1646524756.8451638, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646524940.3211133, '2022-03-05 16:02:20')
+1. REQ, 1646524942.151523, IAMAT Eyal +34.068930-118.445127 1646524942
+2. CFL, 1646524942.153211, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646524942.154168, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646524942.1550038, to->(CLI:Eyal), AT Johnson 0.15152311325073242 Eyal +34.068930-118.445127 1646524942
+5. REQ, 1646524942.2606728, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646525117.3445277, '2022-03-05 16:05:17')
+1. REQ, 1646525119.1512194, IAMAT Eyal +34.068930-118.445127 1646525119
+2. CFL, 1646525119.1523995, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525119.153368, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525119.1541836, to->(CLI:Eyal), AT Johnson 0.15121936798095703 Eyal +34.068930-118.445127 1646525119
+5. REQ, 1646525119.2617207, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646525604.029471, '2022-03-05 16:13:24')
+1. REQ, 1646525605.8720875, IAMAT Eyal +32.091912+34.785292 1646525605
+2. CFL, 1646525605.8735049, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525605.8747487, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525605.875503, to->(CLI:Eyal), AT Johnson 0.8720874786376953 Eyal +32.091912+34.785292 1646525605
+5. REQ, 1646525605.9844363, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646525626.009707, '2022-03-05 16:13:46')
+1. REQ, 1646525627.8441863, IAMAT Eyal +32.091912+34.785292 1646525627
+2. CFL, 1646525627.8453982, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525627.8461587, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525627.8468122, to->(CLI:Eyal), AT Johnson 0.8441863059997559 Eyal +32.091912+34.785292 1646525627
+5. REQ, 1646525627.9550357, WHATSAT Eyal 3 5
+
+--------------------------------------
+(1646525818.8446856, '2022-03-05 16:16:58')
+1. REQ, 1646525820.6553988, IAMAT Eyal +32.091912+34.785292 1646525820
+2. CFL, 1646525820.6565359, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525820.6574159, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525820.6580458, to->(CLI:Eyal), AT Johnson 0.6553988456726074 Eyal +32.091912+34.785292 1646525820
+5. REQ, 1646525820.7669358, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646525856.3727949, '2022-03-05 16:17:36')
+1. REQ, 1646525858.2376926, IAMAT Eyal +32.091912+34.785292 1646525858
+2. CFL, 1646525858.2387629, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525858.2397149, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525858.2406738, to->(CLI:Eyal), AT Johnson 0.23769259452819824 Eyal +32.091912+34.785292 1646525858
+5. REQ, 1646525858.3551185, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646525888.6940446, '2022-03-05 16:18:08')
+1. REQ, 1646525889.0533237, IAMAT Eyal +32.091912+34.785292 1646525888
+2. CFL, 1646525889.0567038, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525889.0584855, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525889.060381, to->(CLI:Eyal), AT Johnson 1.053323745727539 Eyal +32.091912+34.785292 1646525888
+5. REQ, 1646525889.215674, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646525921.4733639, '2022-03-05 16:18:41')
+1. REQ, 1646525921.76958, IAMAT Eyal +32.091912+34.785292 1646525921
+2. CFL, 1646525921.771715, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525921.7735631, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525921.77539, to->(CLI:Eyal), AT Johnson 0.7695798873901367 Eyal +32.091912+34.785292 1646525921
+5. REQ, 1646525921.9198756, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646525931.758341, '2022-03-05 16:18:51')
+6. REQ, 1646525932.125757, IAMAT Eyal +32.091912+34.785292 1646525931
+7. CFL, 1646525932.128515, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+8. CFL, 1646525932.1304657, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+9. RES, 1646525932.1323879, to->(CLI:Eyal), AT Johnson 1.1257569789886475 Eyal +32.091912+34.785292 1646525931
+10. REQ, 1646525932.2769473, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646525938.0973823, '2022-03-05 16:18:58')
+1. REQ, 1646525938.437664, IAMAT Eyal +32.091912+34.785292 1646525938
+2. CFL, 1646525938.4389648, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646525938.4399152, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646525938.440667, to->(CLI:Eyal), AT Johnson 0.4376640319824219 Eyal +32.091912+34.785292 1646525938
+5. REQ, 1646525938.5479624, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526277.5750394, '2022-03-05 16:24:37')
+1. REQ, 1646526277.8876681, IAMAT Eyal +32.091912+34.785292 1646526277
+2. CFL, 1646526277.8890753, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526277.890404, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526277.8920455, to->(CLI:Eyal), AT Johnson 0.8876681327819824 Eyal +32.091912+34.785292 1646526277
+5. REQ, 1646526278.038313, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526299.8291423, '2022-03-05 16:24:59')
+1. REQ, 1646526300.1699312, IAMAT Eyal +32.091912+34.785292 1646526300
+2. CFL, 1646526300.1711202, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526300.1721253, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526300.1727486, to->(CLI:Eyal), AT Johnson 0.16993117332458496 Eyal +32.091912+34.785292 1646526300
+5. REQ, 1646526300.279154, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526320.7976906, '2022-03-05 16:25:20')
+1. REQ, 1646526321.130616, IAMAT Eyal +32.091912+34.785292 1646526321
+2. CFL, 1646526321.1317787, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526321.1326256, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526321.1333315, to->(CLI:Eyal), AT Johnson 0.1306159496307373 Eyal +32.091912+34.785292 1646526321
+5. REQ, 1646526321.346951, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526347.4863608, '2022-03-05 16:25:47')
+1. REQ, 1646526347.7618396, IAMAT Eyal +32.091912+34.785292 1646526347
+2. CFL, 1646526347.7685323, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526347.7702239, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526347.772412, to->(CLI:Eyal), AT Johnson 0.7618396282196045 Eyal +32.091912+34.785292 1646526347
+5. REQ, 1646526347.9218805, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526356.8269165, '2022-03-05 16:25:56')
+1. REQ, 1646526357.1645644, IAMAT Eyal +32.091912+34.785292 1646526357
+2. CFL, 1646526357.165694, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526357.1665967, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526357.1673336, to->(CLI:Eyal), AT Johnson 0.1645643711090088 Eyal +32.091912+34.785292 1646526357
+5. REQ, 1646526357.2737808, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526375.3308868, '2022-03-05 16:26:15')
+1. REQ, 1646526375.635352, IAMAT Eyal +32.091912+34.785292 1646526375
+2. CFL, 1646526375.6365771, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526375.637539, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526375.6382444, to->(CLI:Eyal), AT Johnson 0.6353518962860107 Eyal +32.091912+34.785292 1646526375
+5. REQ, 1646526375.7469113, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526734.2282794, '2022-03-05 16:32:14')
+1. REQ, 1646526734.5605376, IAMAT Eyal +32.091912+34.785292 1646526734
+2. CFL, 1646526734.5621455, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526734.5633068, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526734.564394, to->(CLI:Eyal), AT Johnson 0.560537576675415 Eyal +32.091912+34.785292 1646526734
+5. REQ, 1646526734.6916873, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526786.8508556, '2022-03-05 16:33:06')
+6. REQ, 1646526787.2006936, IAMAT Eyal +32.091912+34.785292 1646526787
+7. CFL, 1646526787.202038, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+8. CFL, 1646526787.2031224, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+9. RES, 1646526787.2040339, to->(CLI:Eyal), AT Johnson 0.20069360733032227 Eyal +32.091912+34.785292 1646526787
+10. REQ, 1646526787.3207772, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526801.9054945, '2022-03-05 16:33:21')
+1. REQ, 1646526802.2373586, IAMAT Eyal +32.091912+34.785292 1646526802
+2. CFL, 1646526802.2386043, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526802.2395556, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526802.2402868, to->(CLI:Eyal), AT Johnson 0.23735857009887695 Eyal +32.091912+34.785292 1646526802
+5. REQ, 1646526802.349057, WHATSAT Eyal 1 1
+
+--------------------------------------
+(1646526822.5736096, '2022-03-05 16:33:42')
+1. REQ, 1646526822.9429421, IAMAT Eyal +32.091912+34.785292 1646526822
+2. CFL, 1646526822.9457562, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526822.9467843, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526822.948586, to->(CLI:Eyal), AT Johnson 0.9429421424865723 Eyal +32.091912+34.785292 1646526822
+5. REQ, 1646526823.0598636, WHATSAT Eyal 1 1
+6. RES, 1646526823.1758, to->(CLI:Eyal), AT Johnson 1.059863567352295 Eyal 1646526822 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDcxl80vLABDvVPkhh9aJPNb17_siBRw1jbUtSRJ7K0qidNEfIEJgvuqAqpFdVNEEBvuEG8bj2jcODy0NO9eXAxYLZMmebdjnP67MEXoj4A3WNgrl3npH1Am6IJjvmZVRCj0JwX06W1Xyxq3fSYrJku5WFURujE3MyQJGmDju0TRCsGopnQ8Rx3t4Q8c_7BSXCbDCQLm4w5CqMfgq8mlDlA17uONcAShYt-NjkNABI8JUOQOdcE_JxGy8ZeN-heVZ2wAQ4h9Fl6DYgKaNKmdfePq9HqJoMcL7AXCWGXjrC1wZ7enqVAMByYkrbBcwZe8c_bfb3erndc7OBUBlYO8TaAksaTHt1qmjclKH42h5wu17LFZwA3vogddCqldLzN_DefkYK7vKvCuSAi--rKUrBg8JcI-1hiNX5ahYabHXuq",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEAt_QmVzieAwhWWbdx7uTKyuck0hkFB-CAS9cB2nckC4Co-7y4EjFgJdSt7m5P1Qszk8gyjtKCvQEhAk1h4beEH7rZTa141rwT4uI1qHnUpTvOjzxdIS7CahK6XTDegR1_Asqp1ke4R4UN93OmCK0K2wdS8SD3VnraNAThD9bv6qbj6",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646526844.4115846, '2022-03-05 16:34:04')
+1. REQ, 1646526844.728463, IAMAT Eyal +32.091912+34.785292 1646526844
+2. CFL, 1646526844.7297506, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526844.7309308, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526844.7317176, to->(CLI:Eyal), AT Johnson 0.7284629344940186 Eyal +32.091912+34.785292 1646526844
+5. REQ, 1646526844.8390744, WHATSAT Eyal 1 1
+6. RES, 1646526844.9789503, to->(CLI:Eyal), AT Johnson 0.8390743732452393 Eyal 1646526844 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uECOIFj8JhKOBPPvafcF7oNwGyunIFVBaCEphMpLYc8DMU9WhIIQFhnXYxA-LI8LiTUczcO421a2XFmAW36AodsxVBuQmlftI4Y0ZYUpkxl5tQ_4ym6hg2mcLkucLaPwh0yWaGI7j_IZuCh8wb6EgLSGBEbAV4rlKhRqRJxavttSDUCDAnVXiARbLyEk0lD1TGDzIanRjkhOrQGoM7QXBbI307YQEO-FhPMUsNVBg7BChWNtFZGQIOqkF6KUrCj1vhlfsf8LQ5WQfYPWo4wstXFXhAIf8yhK0OQkYUCAWQdgoT509vlucwdJzVR5tZfD7qw-xujLb-aDgJ9XXNHWT6cIxdD7Q_FSQ-hYL6ipoY4bcqJFHSOFcuLvQjh_2GEax_Ek4kf6CnFP5Cgdkl1SbnGERxQOvdyAzdfeTSRzeHVQ",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEBpuM21M7lk5tWdx6tt5duSjW9NUhK_NQMbIE44N8Mz9PuIy5-6YNxc6RdwzeoMV-XrqpQ7LAst_l_Ri3qcklQi4mmkHyBt2UabtJOHLAiuQf1nt-k_d0fpUPJcypbiFZomZDc_UmfM20bWFUNE5AqIbpgYXfPHCjGfNqFAM2sStjzp",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646526880.091485, '2022-03-05 16:34:40')
+1. REQ, 1646526880.4461696, IAMAT Eyal +32.091912+34.785292 1646526880
+2. CFL, 1646526880.4473097, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526880.4481866, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526880.4491165, to->(CLI:Eyal), AT Johnson 0.4461696147918701 Eyal +32.091912+34.785292 1646526880
+5. REQ, 1646526880.5573273, WHATSAT Eyal 1 1
+6. RES, 1646526880.6628604, to->(CLI:Eyal), AT Johnson 0.5573272705078125 Eyal 1646526880 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDWrXQIEmkYVEO43d15PEaK0BjP15_XcgRzBejF-07Gx9JST8jfc7ftN5DoPtMLym4WK7lWqrGkQ72zShwTOh_ZpezrOa1-RCV14kl5qiSayAyHFmJ-pswyiRBGWdNpVcWl06LDoOG0m_zvnrvbfHSN8OZ3DN5ge_WMbe3Gmk_7dlZGv_gYQjpEKvwDXSzw5gRicEVHa0QoovjFYH12zTvADr3FRQpj61CT5E4c2rgGo5K4eYvRXob1q1RYjebGjzNovfStMC4JZGuBBOajRCRPRBd5NLC9QM9oGdGLDLEK_KIAi0Ch86PXWOoozw3xH-VtNH1jHkv0PD8V29NZirQjy7rxbaMxpIEWx6fa_edpb-xPjGdV6yKbmoUKd16fmhlO-vT8de3eiYxQx79PyXRF7APh3Ub8CnKick_b1oRK",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uEBCHDBQKCMXMI01rGAPwRkjyE2rfBAoUxuXg6JbuJ2gbYGCDopa4HkQyF8AcIMyjhczGfsN3B01SdXE8jV91JKuLvvlhKLeP0rNGgUQg7fnurZ5v3RjlUOAmWyp4qBhjmnFDB4MzyOABiDhJ2DlPsgfzuTRXrJWaBNGQ2U2ED_3jLqk",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646526904.2910695, '2022-03-05 16:35:04')
+1. REQ, 1646526904.6389477, IAMAT Eyal +32.091912+34.785292 1646526904
+2. CFL, 1646526904.6402485, to: Bernard, due [Errno 111] Connect call failed ('164.67.100.235', 10392)
+3. CFL, 1646526904.6412153, to: Juzang, due [Errno 111] Connect call failed ('164.67.100.235', 10391)
+4. RES, 1646526904.6419108, to->(CLI:Eyal), AT Johnson 0.6389477252960205 Eyal +32.091912+34.785292 1646526904
+5. REQ, 1646526904.7511952, WHATSAT Eyal 1 1
+6. RES, 1646526904.8641658, to->(CLI:Eyal), AT Johnson 0.7511951923370361 Eyal 1646526904 +32.091912+34.785292
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEADpoos6UK1IOuAuctE_cj6afrzN2gTrvSIJZDNlrhu3ZJ9UjfsVYbWiYRNIObeqoogiBBNUnVtqzt83Dzu_w6vGGLMUvnAVJ9605MDExtJHakL4oJ386c_ZUE3oS8d-AwjuSrcyu-tybgUYUtTxoG-9nC0KCvOKaC070C5SofaMX-WKZP6FoSyxxfat7J1KxWoPlwg6k3u4BziXe1ERxsOlaDu18Jt2NkQujgnHEXV5wP1vN0HKPf-M9tOcpaxiEuQanLdNE6zWfvZV0bQYaLZI1Ftl22D8oq-F0RkJLEnOUIkyGWKsCG3x5W47pPeA5-NMzxk0o4rbfCFJOS9-XiOKjKz7_OY9lZByBiYmMa8vGhjxExDlu9Is1ozuQL0PQ0CC7wxY5lFsbjh8mE9NmTJA5JYk_e10lgPXzvBkwOw",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 32.14661100547454,
+            "lng": 34.85197607112195
+          },
+          "southwest": {
+            "lat": 32.0292520132593,
+            "lng": 34.74251594646287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tel Aviv-Yafo",
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108252628278597712087\">Abdulrahman Ghummied</a>"
+          ],
+          "photo_reference": "Aap_uECojsgOy1VYTCYjh3pTN7O5w1GyZ9YlWudIKiTJ7I5Kp8I3CgyhpARbVb_3MRFS-u4YGxKxsDz_U3VIVNCKBOfDM13yMUAcbO39bcjXffCCtGMLTdJPF0VggIT1dHumvkHoVRDsFj7gR4nBkiKJybuZSmT_PsQVnURJzEZQWW5jPI9r",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Tel Aviv-Yafo"
+    }
+  ],
+  "status": "OK"
+}

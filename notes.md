@@ -25,3 +25,6 @@ As a rule of thumb, values are stored as strings and converted just at the momen
 - *still checking about assuming all input on one line*
 - check if logger loads correctly when we are not in the same repo as logs
 - log on success connection
+- what do to if location has not yet been recorded?
+-check what happens when the second lcocation num has a pos coordinate
+- which time do we use for WHATAT

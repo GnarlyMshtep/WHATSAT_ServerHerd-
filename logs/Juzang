@@ -182,3 +182,14 @@ CFL, 1646516849.7778914, to: Clark, due [Errno 111] Connect call failed ('164.67
 14. CFL, 1646517810.97581, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
 15. REQ, 1646517810.9767616, PROPAG_CMSG Bernard Johnson,Bernard spicli 1646517814 +232323-89123.122
 16. CFL, 1646517810.9775875, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+
+--------------------------------------
+(1646524600.7056417, '2022-03-05 15:56:40')
+1. REQ, 1646524602.4494007, PROPAG_CMSG Johnson Johnson Eyal 1646524602 +34.068930-118.445127
+2. CFL, 1646524602.4508517, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+3. REQ, 1646524602.4519358, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646524602 +34.068930-118.445127
+4. CFL, 1646524602.4528935, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+5. REQ, 1646524602.561132, PROPAG_CMSG Johnson Johnson Eyal 1646524602 +32.091912+34.785292
+6. CFL, 1646524602.5633254, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
+7. REQ, 1646524602.5645602, PROPAG_CMSG Bernard Johnson,Bernard Eyal 1646524602 +32.091912+34.785292
+8. CFL, 1646524602.5657241, to: Clark, due [Errno 111] Connect call failed ('164.67.100.235', 10395)
