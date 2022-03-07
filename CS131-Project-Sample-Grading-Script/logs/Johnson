@@ -8326,3 +8326,3235 @@ Exiting...
   ],
   "status": "OK"
 }
+
+--------------------------------------
+(1646608861.3508925, '2022-03-06 15:21:01')
+1. DBG, 1646608861.3523173, In main!
+2. DBG, 1646608862.0881827, I recieved a request! currently in handle_connection
+3. REQ, 1646608862.089634, PROPAG_CMSG Juzang Juzang client 1646608862.081196 +34.068931-118.445127
+4. SOC, 1646608862.0933914, to: Bernard
+5. RES, 1646608862.0943656, to->(SRV:Bernard), PROPAG_CMSG Johnson Juzang,Johnson client 1646608862.081196 +34.068931-118.445127
+6. SCC, 1646608862.0967507, to: Bernard
+7. DBG, 1646608862.1017787, I recieved a request! currently in handle_connection
+8. DBG, 1646608862.1104352, I recieved a request! currently in handle_connection
+9. REQ, 1646608862.1077373, PROPAG_CMSG Bernard Juzang,Clark,Jaquez,Bernard client 1646608862.081196 +34.068931-118.445127
+10. REQ, 1646608862.1112416, PROPAG_CMSG Bernard Juzang,Bernard client 1646608862.081196 +34.068931-118.445127
+11. DBG, 1646608862.7758803, I recieved a request! currently in handle_connection
+12. REQ, 1646608862.7766037, WHATSAT client 10 5
+13. RES, 1646608862.8959455, to->(CLI:client), AT Juzang 0.6954076290130615 client +34.068931-118.445127 1646608862.081196
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEBnVq52x_bsIFrqLDvwwZX6GLF5Nbz_VvHuDMIGYYe0jnU_sDcoMgu3ggjY-X3vy0HpabUpCKENbE7pwLmvdKg5rQFHNO0Wci-vAJq8cHxb7HMEs1R0jh2YYeM_OXu8c_j-lDtZD4aKU6uVv74InT58nYsVof_4mVZZDUY5oB6t3HZjY2JvXqNhUZ5RlLRLeEoE7TOWb4XTst_w0oURzGvguSkOpwrvBODKwMGy7ULStsVsXutCm--3lBijBp8R5rfHaR7GGfh5nkO_IrcziJksJkA3uexP5cq-tZp5kaoQLL6YmiewbPCcL5f4IolKiTiS5boZz-pigg5lQNdRm3eoID37gCLnc7-p1KFoGySHaGc7E8VEoBwkBEbglg3eSGfbhETK8ywplnSk88nJbml8xlaXs9TdrVEc2lZJoDpI",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEBl69Al9xTsjW0c5yuXYwnjyyqNoRWDA-RQZ7fgLxcSErZEtxAHcPeYdnFSwF19Bq8SNvjo8Q3LDJ8kx8R9yKcXTlaMWy3x3BpACFuEmmfrHfygygmxuv650vVcbt26SXqgAjHGzLbTMWB6q2zqz_x333RCO8MKuB3fVXz_HHe2rtpD",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECs4O3pGvyrfFZ8s8cCOurKm1KMEv8eSpaBS4ppMH1GLzB2vUl96uyOwl6lr-vMP1eRAuDWhYLPPrg43k-TTOi7APfRQRATA4zE96BCP0iu8-nx936jtf7z1Ve5SM3u1U9ffSBCpqIoN1F4bGj8h24pf_WijBKT8WlnVZcSdRfC4ur8",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606338,
+          "lng": -118.4429579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417263197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444242802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEAcWhzbkXDULM8TVe6NwiOz9Zf94LWBcsbaLDBASZxDQPlmLMqOXRmssOfMI8WgOLuDm_ZA7ANs0mxEiTArlhB3n1tfL1K_JwH0-CydAD5pOWVwpo7sRcf0ElBiYfnsAaZ6D-41OhjGt8zp3-q6kREVJHizvEdZdmIZLepE8JrWtEd3",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677194,
+          "lng": -118.4260111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEBE9wlnATfaBdWkVtW1zBj-DPLa_JiA2dUry_o3ZzvRZsunLGyjeHf8v435uCJs7tzm88hLmVnqM_WTm3j6JQyvY1DaBvPA-yzTRupFB5yRZqtiOLKnyqw5oYHigjOm5DahKcYSiA4LA96ZXAgcp_k9a8mK0O-Fo70voEZ8hIcYh3pm",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 386,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEAt9_ilyF53vt-z2rIstaKkGMCkTtcXQQb6-UMDQnvYR2siDvORXQ80Sl7YKz38oE2LBkqKhbpYOrrQgONTeCx08Jf6aAzs4i-H9trYmtHwI6Q0ez7qnCc2Dc_y_jZVlux2t2fAVwF4YSS7YdD9GUr1qKVVCu3BWJ3pyPCnE1JdNE5x",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646608865.463999, '2022-03-06 15:21:05')
+1. DBG, 1646608865.4655864, In main!
+2. DBG, 1646608866.2000084, I recieved a request! currently in handle_connection
+3. REQ, 1646608866.2007883, IAMAT client_test +34.06893-118.445127 1646608866.1993265
+4. SOC, 1646608866.2020266, to: Bernard
+5. RES, 1646608866.202676, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646608866.1993265 +34.06893-118.445127
+6. SCC, 1646608866.2034628, to: Bernard
+7. SOC, 1646608866.2043426, to: Juzang
+8. RES, 1646608866.2049654, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646608866.1993265 +34.06893-118.445127
+9. SCC, 1646608866.206063, to: Juzang
+10. RES, 1646608866.2068057, to->(CLI:client_test), AT Johnson 0.0014617443084716797 client_test +34.06893-118.445127 1646608866.1993265
+11. DBG, 1646608867.2908273, I recieved a request! currently in handle_connection
+12. REQ, 1646608867.2916412, WHATSAT client_test 10 5
+13. RES, 1646608867.4209976, to->(CLI:client_test), AT Johnson 1.0923147201538086 client_test +34.06893-118.445127 1646608866.1993265
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEA50tI40MA_6k-o4AWYkQ-C_lyGqxX_cotHfPEGbZO7H0R0AK4bUy4sqEVufQwKjrFCewVqS4H85LFrignkha5I8Y5U3Msihx3vhZAHFMYcnxjd7XHQnShAIssbGNaPft2m6US34RUKwGTp8AipmPU1X1zU7--A9EyKDjT8LmTr6q7p6OlusXl6bJ-XYMhOSSB_FjzzR6urntoJfG5fkV1sDNjA7fXGiOn5Q1CF7KV1re9oswIoa0x3jwHzlChsH6D_5stLAtEOhouWZ3rtJVYWwjyjaS7gOtx7JHb-jie_x8ZjFSZrF2PAlnJOqoQVF-lnG2ybUGIxLfiT3mkV6Mkos2mC7yIYFH19bmBNY9WUyO3q3l6_oJ42LDTWV3ZycDN9jKiYuRnWzYJpH-FRju06SsZxYJPodNoIWhGAgklj",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEAzQsDsnkcXBcqAw1qLsBjx_zbb3rrtfZzoxk0rk3G8BMniR2nbWLv7ocJupAz4rD6wCq1hiaxpbvg_FiCEEiTjq6wmzceLm1zrUO-vkfk7-i6RyeMSg5x-tNdVNXE8q5D2-nrG9yFuPgXFgA6XVglnI6qCEHX2GAMS_c5LvN114OM5",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECCBJ51v1TMGWvKWD34lNXwytuM7-DF8X1eAl0NQLe1B71ktIMszOPVKaWR8xWWjEzZUQoNtxoA4bkXZjhR0SoM7BWQllqgJYrDtpIgE3ZeXkBp-hE_VV-QrEtoB6MP3z1XlO0afeaMOo7BG-QIX6AxkA0rWsJfH3T-r4VE83q8KBF9",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606338,
+          "lng": -118.4429579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417263197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444242802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEASyGoRGOAfb4bYmVJodRLf4fXQDrhZ5lGoKsjy08VqqWIExwab8svsZPwz3EhxWF-MiJ5Gd72CM0NHOtxIIu5XFutCI0q8v0uiIgDCM6cqlODoneAYdwZ4P_YDQ5bOW88luOtYtTp6v4URtK2L-e8rNhKHHMffTPWV33eDaaVqF32s",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677194,
+          "lng": -118.4260111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEBSAXqXBYpoXjPjlemxpoktjhNH_0X7-VjD4yJMlwXNeuMdHmwttEu5C-OUmRlOcDt8Vi5jztRX7sniC1_4bhcJBnRrJTkEaGm2DJf73BUXV5xQEcxVzfDfajavp5kLm28tOBCO9sAg5D5ZLTmgJU8tzKirsCTexgFdsy-1M9AdlvdL",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 386,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEBX-ZybF-dQCmckQbqQ2JLnEN0I0J9XUgfbsjyrtqqUTLy2CyU6bSUFGMPdbBe3LEfbCl1oP5oGWooLu2NASPlaFsmZ_9nPVyzBXks7UfeIMXJbgHSwpwRfhDhJboxmdbdmWz0b_p5PvOE19rtyskheKBlRCk4n8RvfcLbvCIqFWPpC",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646608869.8152487, '2022-03-06 15:21:09')
+1. DBG, 1646608869.816217, In main!
+
+--------------------------------------
+(1646608872.9789057, '2022-03-06 15:21:12')
+1. DBG, 1646608872.9797623, In main!
+2. DBG, 1646608873.7397363, I recieved a request! currently in handle_connection
+3. REQ, 1646608873.740619, IAMAT client_test +34.06893-118.445127 1646608873.738989
+4. SOC, 1646608873.7419477, to: Bernard
+5. RES, 1646608873.7426693, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646608873.738989 +34.06893-118.445127
+6. SCC, 1646608873.7433918, to: Bernard
+7. SOC, 1646608873.744261, to: Juzang
+8. RES, 1646608873.7454228, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646608873.738989 +34.06893-118.445127
+9. SCC, 1646608873.7463748, to: Juzang
+10. RES, 1646608873.7473643, to->(CLI:client_test), AT Johnson 0.0016298294067382812 client_test +34.06893-118.445127 1646608873.738989
+11. DBG, 1646608874.7664173, I recieved a request! currently in handle_connection
+12. REQ, 1646608874.7678351, WHATSAT client_test 10.5871263 5
+13. RES, 1646608874.870503, to->(CLI:client_test), AT Johnson 1.028846025466919 client_test +34.06893-118.445127 1646608873.738989
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uED6y9nBznu9UBFUJImVh7K0KYol3RHNcNMCCOyH8YSisbHu3a8ioLS9L1dkIq3UJ0VbjdVieUl7dQ5_1qaFy2XvITQLvqTVPNOyy1nBaxKWWwI4ZGalKp9YXHSj3L1oeFU0DD2G36GhAYnyPaCS_P6kr4qkEq8kcUVfRO5a78-Qo_riEZvBLwO3qgNA3XzCGjf86l6bqBU6bJvruAuTWLMEs8bnJGVYIjwYRegxSJnr5U4K8B9ZKGwjmis749l8AhSe_u2vEhx5fKCwG6UFO78TNy6E_LG-5cPQX-7FNGp9-z_T74WVBWkz5Zsl-FzmpGPXth4emJt3sxLmYoSjViuq8vohzHQuAgtJJ9X-7tKj2_pU9IXvnYRnHVZwKx2g9NQUJtUwFjqRVLAFdWrxtjKzjc1FmnrY79CuJSxsfrqY",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uECb_pLZLT0scaQnH5W20Fw4Jc0ayv4zmqfKzVZvqJ1YQdzdfEVhxJ8ulE8XDFyNibqmhIqId44RCrReS0f4gU5ttaMHlJ5rN-YN4ZQrlem8iTodKT-FUIpXVzrdCCNnssIVtMTe38j8cL3SEIhRIfb41l7JflsZ1wL32WXEOk9P0CzI",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECUxUqaSJvsRpXnweFC-6x_Iju6J1zpZ3ju7sd-jfbsjG6j3GDZJMjq3reNSTO6N6DnVMkB_e4-v3R9lVpawTrdm1wrRoMW-sB0EQ7uSnzxmzQHMqeWS59I7kQ9UTro-_cXlVShiDTUCFlRRh2XmL5MQiAfv8BoU9DdMQhJczZrxeiT",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606338,
+          "lng": -118.4429579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417263197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444242802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uECtYwDdI4qT5BJnRJF64CISYQiFyefikV1Hhe0JjH-0Sdg3n_0uvij1fx5Xys3EWCRd0b3LDoofakutdtN6hUKHxZhwFoo3U_aOYz9RmncCNWJw13HldHheiNEsiaFmS9YXV9nT0tkQplcAMLCpjV0ERRKOvZT4M32BJ17CfHdhn8Ap",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677194,
+          "lng": -118.4260111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEAGyOt4dTcfIoVraf_PD9GPe0GtWMC1KNq8zI1AVivPL5eYvrEdsXIGw0sEzvk03k_DFPDxQWmFiAsmzKH7fxXohsfLwj9NOAxcsNaff3Y5PSDed5U9PltoxUlbsOebRMYT7QRHrRCi9lNKJYBcvXN2PRc0O3S1s7tgLpnturLHYpbk",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 386,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEALPes8DPJBd_EkITdvdy0W2CjS9USqcGFrdn9iv3-mrZWBezoMxlPVZyuDK4Yk57vMeayJytplMTynXD2spf873optw86hZYvRmyL1XqUQfj_0xoqiWmv07kTncjaHEDAjFFBe1HCl-a4-sk1AmqvtJReQP3X8d_qePKoo_vPsk-8V",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678098.5060256, '2022-03-07 10:34:58')
+1. DBG, 1646678098.517597, In main!
+2. DBG, 1646678099.2763247, I recieved a request! currently in handle_connection
+3. REQ, 1646678099.2777643, PROPAG_CMSG Juzang Juzang client 1646678099.2691975 +34.068931-118.445127
+4. SOC, 1646678099.281472, to: Bernard
+5. RES, 1646678099.282425, to->(SRV:Bernard), PROPAG_CMSG Johnson Juzang,Johnson client 1646678099.2691975 +34.068931-118.445127
+6. SCC, 1646678099.2835038, to: Bernard
+7. DBG, 1646678099.2922478, I recieved a request! currently in handle_connection
+8. DBG, 1646678099.294887, I recieved a request! currently in handle_connection
+9. REQ, 1646678099.2932527, PROPAG_CMSG Bernard Juzang,Clark,Jaquez,Bernard client 1646678099.2691975 +34.068931-118.445127
+10. REQ, 1646678099.296171, PROPAG_CMSG Bernard Juzang,Bernard client 1646678099.2691975 +34.068931-118.445127
+11. DBG, 1646678099.9281147, I recieved a request! currently in handle_connection
+12. REQ, 1646678099.9288933, WHATSAT client 10 5
+13. RES, 1646678100.1281698, to->(CLI:client), AT Juzang 0.6596958637237549 client +34.068931-118.445127 1646678099.2691975
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEAGBjmVzfIIJ7MY7l2gWiGa5reIh0GUcPo_Qlx1MT9SWAoqJaMniy0tfua_xaHNHRP3hVxjrjx-LIdi-ZvyqshaSoen-hXcgcXdusT9AXRvn-YtX-4IfPW12HVudNVIYduLPDKDPYgVTFqhM0hNJdkhZaNRZCJtm446xcWEm-ym6Z6SkYMcNf_c1MkQShFkXfvHw9Prsq9QTNjlxHeX_1DnatNrOk5d1BLXLKSHhu25xyTUQuy3lP4oaHxQGbsFXd8ShVS_DWQT3_tiRvzKVsuIUxHgdQ7udLY3urbEHzhKCTkDkQrJpJFP_2CYoxBbLu5ThqZKzFy4AcBjGkwKJn3MLfeutQ69wdzmyz4ZwMDvefaJSPSwh9yg0rWN266ckXNQw4V40gbUicY4Dc9smiMwM60FgvuQ520QRFAGaG5b",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEC1ONokfDLd11HznfKJBQ7y7iiY9llNk5uub6QFqVuy7nqS5Tbrg8KUJO0yOVIKmpCNOj9zIryQkC_A2ElFlLEapOWktR0yOrNt-jwFvTPO5KfDpZfSWQDGgNftBrHR3TGyD_M_KevRgKsrWYgySEvR8_MxgexTh8twGh9YU6z8jhOy",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEA6GlMhcM5pbVxw5RZ3jqM3nhRd-NpmE_zN0J2mvfFF9zY1nBNCsJKFCKZi3XMOgkoDvF2tDvNla2ZxpunhiFqKlQVG7G4uVpomfuwTeo_RQ5D9Gwbyy56AoKdZITdz7flUIRmiQPn6tYaxwCJ17GicjLGIF_4Z4LclcNoHD4UTfMYe",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEBbis_n08awr5JLgPQoEBPKIK08hItZzkzJ-UVJDP3U4YnLjNSVdD4gcI7CqZLnd6d6eD9Kv1k2roQCVTXa_JBQr6-omFdS3QJQTiJdYeFT1rgDq7V-JMVGg9SDaTJwMpzi_lF4tIe3PRWeDFCT2-cg3LgQEkSHbDCWoSWZzjkIvANQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uECFHjm-FBKSLvE6J2giZH9euNc_E2ulC786PX_gc4ACApr-kgxYWq3QukG9uSQZ0Kb5p_2Nd7_vxEpiE1UEMUMXQj4SUum5Opo-T6W35bbbHifMw9wAu4cu2yXgwq_MIqY6-qOcoEvRcxNnzh6OTyNQ4AaIwQajh4g5skvhhh3IK1hf",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uECVGBpWF6KWQHp-v_ZnXGrGZLKkykWMDHJ9sBXVGtAP-NonUnSaYMtGfjwQurbwRx8IqJ6AHt8gnAlbWIatnk7pLjKcofStUoyPFLMn3Iw5H3PJXGPhCZUp3fg0k2eL1qu6qUlWAkoHPv0eSh7fCXAjAYQvsgo4BjJnuz6R2ww__Tr-",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678102.6661866, '2022-03-07 10:35:02')
+1. DBG, 1646678102.66722, In main!
+2. DBG, 1646678103.4314845, I recieved a request! currently in handle_connection
+3. REQ, 1646678103.4321973, IAMAT client_test +34.06893-118.445127 1646678103.4307745
+4. SOC, 1646678103.4332514, to: Bernard
+5. RES, 1646678103.4341512, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678103.4307745 +34.06893-118.445127
+6. SCC, 1646678103.4348645, to: Bernard
+7. SOC, 1646678103.4357293, to: Juzang
+8. RES, 1646678103.4365842, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678103.4307745 +34.06893-118.445127
+9. SCC, 1646678103.4373488, to: Juzang
+10. RES, 1646678103.4381223, to->(CLI:client_test), AT Johnson 0.001422882080078125 client_test +34.06893-118.445127 1646678103.4307745
+11. DBG, 1646678104.5367506, I recieved a request! currently in handle_connection
+12. REQ, 1646678104.5377028, WHATSAT client_test 10 5
+13. RES, 1646678104.7464144, to->(CLI:client_test), AT Johnson 1.1069283485412598 client_test +34.06893-118.445127 1646678103.4307745
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEC6xKug5siXxMG9If1BtfrFZ2dyERQi_OYskXvVF_zRiQPJ_GqI2gZEC_p_4LQkGEwm6JXIcNg8WqXnRpAAUcxmlRg4Oi7tYskxkDiEzMLe1FROYZmSV5WGME_L0NIpIuaWj1T8Y_OSgFB8FOZJ8tSQYZaMRd79tvRWucC6W_MGOhfX6I9sYvq4Bumgt1gUyJWsSS-FSppKwFCWiTXxl7qOajRFnn8WpFRmNb-0L3IIucPK7C7JwsCB8sWQWMKPyWJp9Ft1LO-OJurbtlshRHspXr8cuv5qkXoUiVvWU3V3QEXb43GUFM148Q44IN7rJOpr3j2FzxNP8qnKDTktnGUXREoE_PQs0uGWe5n3D-Ypdlmxltgx8hIOy2lOk86G4MvEzeNkUSrDONK22j3hFGO4lF6F1La6Vs-uKhsY2VS7",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uECxYcj93-icDyyXVIbjhEf6yFBMrmbCQ6Uc4iLfnLW8Wc3w3szfTbORYPrL1DJAfk3H2EjUmsMb9El4CC3eWKDJrAe6svjYK0MmVfQp32vlRpBYMyf0yvyecOA4eaZCrYTpDufKOyMvPaaJkaw2vofuGaOAkAS3K2v-QXgAx0FmLbsK",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEBx1_MsCCvK7CjA9ULVbccDdgO3BCKdwm9wkPX5LSxCnDr9LJu3bHnO6rLFvPdS6dXnhIkxOyhUHA_C9_2cg2GaWhYuHM_O6YfAiVOm-9KieG3MbwuFLd1vCZ_WX4q0kSE89-6i0qBDVcfWVG0wFzWIwlHkd2D5Jjl_lh5wlUsakWh-",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEB59viE4i7vwr_Gs5ng9VpCRE8Cx1jzhibEi3ergDc4P6q-8P2HS7WcNWQ2LN0BZyD-QZX7aOkYdYuGzc-bC_06oR3Tw9_hRqChZpC1QnS7Bgf4MBlt6b4SuKCF2zTZcI_vTBdxxLz11i1OcbgkwSv70ElrYqn-d6f0JYDF7n_JwZp8",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEDKD5542GfYDUjQ-t1jGsKPtxEOHpvnUUh8tejOQyxEhn3-1OpnkhJojBgNwhQzgOSuNgX0oxhKg1lXYTncmFwxXIadg28yuRrGD8-k0KK7sWz4dgyw_efID5PP1U3kHiZ5GudLOw7toHVTqGGE02fx7t36wS-lVx_A7nui6O9v4czs",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uECGzAWkchDPk0B8l5UIgjg1-yd9v67XX5lNf59srDklu8iQ4yDo42xYUDLTlYrIAdZtofC5RJk7DZDOOyrd-uxRCQgE9OO-GrSHz94u-8gOXxR6sfao-XTz7_JXrhDghmH5qiy0GcXV_LjxAV6IpHobD6bw3mvVVIhUn1_0k7ieiWLX",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678107.1239395, '2022-03-07 10:35:07')
+1. DBG, 1646678107.1249356, In main!
+
+--------------------------------------
+(1646678110.2815557, '2022-03-07 10:35:10')
+1. DBG, 1646678110.2826867, In main!
+2. DBG, 1646678111.045526, I recieved a request! currently in handle_connection
+3. REQ, 1646678111.0463772, IAMAT client_test +34.06893-118.445127 1646678111.0447996
+4. SOC, 1646678111.047523, to: Bernard
+5. RES, 1646678111.0485697, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678111.0447996 +34.06893-118.445127
+6. SCC, 1646678111.0495372, to: Bernard
+7. SOC, 1646678111.0545006, to: Juzang
+8. RES, 1646678111.0552492, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678111.0447996 +34.06893-118.445127
+9. SCC, 1646678111.0655634, to: Juzang
+10. RES, 1646678111.0707185, to->(CLI:client_test), AT Johnson 0.001577615737915039 client_test +34.06893-118.445127 1646678111.0447996
+11. DBG, 1646678112.0961232, I recieved a request! currently in handle_connection
+12. REQ, 1646678112.096741, WHATSAT client_test 10.5871263 5
+13. RES, 1646678112.2506952, to->(CLI:client_test), AT Johnson 1.0519413948059082 client_test +34.06893-118.445127 1646678111.0447996
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uECPH7pDyoANgbl24-tJCNOHkwPIRRz9MSp1GQX418t21IYAWyRHZ6LizKbd2TvK_LWg5S-Jg6Yv-KR6gwS2oSL8MqYDOwFIVRJW9Zj27SnTAFlWDMESQyZyriTH4Vch3t1BU7OI1OiC7B_3zpY3okUEZ8wAbeQiLCyIbKL7VRnYVnk6_jfvX639HExhk7fwm4ftRkX-OdI-scGrE0sqOytv530Wn7axanMDuVaPMVEkkC-zlFKAJqoNdn7GlQk3QNpDsHvFsVyWM7wbPRXrtP52yTZx37wF7NCLDs08ogfdOOFaXRabaKkNgVozMV45ds6rLUTTChca1Fy-4_0x-nVhGdQLwFkkDVO3SRxNv0CHMl1cWC0OyXu35yEMaRDFHRkK_1Bm8b4CFczcQCh2LO0S7EjkPAg8DtxhzD6rS2l1",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEBIukjeIOIlGUURh8kU613XfemwrA5UALFwGi5NbRfXdGaduEsJDSi3GUDGoglApQsEXGnvUcDlIr-4nZ7tjO91NbGMfjrzyvJIGj6VPRqBlh0HV3t6J6v_pKGoFopZMro0Qra35UqTGWRY2kROsdDEh6dwtm8N04RD-bW0dQ1r-rwo",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECq-y8BCrZyNq5pX4fZYKXImmnMryyPQLVo8B8pHnp6LMfNcPdPjTlvkrdiB6-dUSGfOcgW-dkC68PP8eew41a8iP6cY4l0lW4d9hbUN4OujPlTd_HOoREA_b8YgCFT8Pvmj6hv45yxZwikDkqbwLkqRr_U8LxwIX8MiXDR2LtIfVHD",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEAkoHJXtj_JvQr_LTbau4un90OR95Lm6S9g4U22DenFlroGx9IXF-zphHlK8pBSTEwaO1r7Sh8jLxldDP137FYxmeohvmN3OEvycvsR5D2dg7hEpx2YWAaxKC_rX8zO0xkE-MFv-MoDP3Aoao6QVk6Z2et_iTxzo9FxCNOsoDz68Ro3",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uECPXBirbZO8nq9U3L9_8YlBfidmVrTR3vJBEVaBsUu-PTQu7HH-IrvZS9aeDN6g42xeNXq-eXe7vipAhALZoSmFRmM2LywklnaMKlbuJQxMrNi6zq4qYN3hNkbNw-9umVGKqBby9xfmvUXMi7DD7zDKEUIFGqj5LexccuS4MM-oceWz",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uECo7vlIrcS_3kf0SvVRLRGDO3kV-H0yiQPW70YyYOZNCsJ8JLL_nHuMnNV9kfmRyeuNiTJYB6C7KTr5qLMvv4qhp4mlkGPDXhaL4z-rW3pjol3iCXdInMztdT-PfCHE-iNNvRdEXAO7U9m8Ekcu0kVeq1b5-SGwqnUyLNTlQHui6K08",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678114.6268363, '2022-03-07 10:35:14')
+1. DBG, 1646678114.6279454, In main!
+
+--------------------------------------
+(1646678161.999256, '2022-03-07 10:36:01')
+1. DBG, 1646678162.000377, In main!
+2. DBG, 1646678162.774016, I recieved a request! currently in handle_connection
+3. REQ, 1646678162.775312, PROPAG_CMSG Juzang Juzang client 1646678162.7675476 +34.068931-118.445127
+4. SOC, 1646678162.7784948, to: Bernard
+5. RES, 1646678162.7799098, to->(SRV:Bernard), PROPAG_CMSG Johnson Juzang,Johnson client 1646678162.7675476 +34.068931-118.445127
+6. SCC, 1646678162.7816014, to: Bernard
+7. DBG, 1646678162.7857876, I recieved a request! currently in handle_connection
+8. DBG, 1646678162.7910874, I recieved a request! currently in handle_connection
+9. REQ, 1646678162.7866433, PROPAG_CMSG Bernard Juzang,Clark,Jaquez,Bernard client 1646678162.7675476 +34.068931-118.445127
+10. REQ, 1646678162.7918825, PROPAG_CMSG Bernard Juzang,Bernard client 1646678162.7675476 +34.068931-118.445127
+11. DBG, 1646678163.285517, I recieved a request! currently in handle_connection
+12. REQ, 1646678163.286213, WHATSAT client 10 5
+13. RES, 1646678163.4302263, to->(CLI:client), AT Juzang 0.5186653137207031 client +34.068931-118.445127 1646678162.7675476
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEBiuaqg__WMZi-dnHMVH84Sf2NE2hv1xv6nqIFWdqjatP6kO-QYhic828kpbfj-XqTAcNNettYKu4aBlcHDgFw9ftspsZvSvIHf8ltHYrtjEIFTQvPj6NIsX5kgBImZXp0DutPXD6ZMlKheH_b4Pk8XTiBvXOmOsiowma4CrZW8n6xKLxnYcFiOPvMjXLU9jWle2yU79Y2UlFG8aOSGwDSI0WrviOTjOjI-S126n-Eil5Ro21RSIa-mQ0qLC_zq1j7w1CI7LPBEqLkG73tvJEQhxsUi-eRT5Mb5Pxg4UndYIAQ01xKI919c95K96GxVHQOuKUmyrt3Xgk6PbDFXvYn9_fFpHWWbOqOEULwoI1gwQ4YMYRhd-XLLXOo2-p2tKsnlJegXIGF6FdphtWc59xrpXywM0JxJQkU9hcJiKWHQ",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEDJwCQgiziVXkA0wP2cYikWxQ-sAxsClXwX0t3ggrrfMeot2dyLN3X6-XYpusnx47_xq12Mu_SSaNyxKKMk6EcLYzFY0vt-dyXeYfaxXy0GrB_4oQb1HzPedCM0NAAt5thh6JKqok3UtyPmoekgUzxe4wdXWTusOQAeB--PlBfobPzy",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEBTECj5chGLxwfuqRYanDcL8N8QjLCRhNjhJmKs5ZbXl0-5krrAaTi9DKiq17hcrlMuS171Fi39jb82h_BOYVOIgsaZLjXzwdthID4mugJK6cxVvvxYVE2rkHEvSwTZgE27O4uY1NfCRBYRTVOYfdv6eAqQpBsIiLNxokwBzkwf5qVj",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEDld9owH68JlazG22mIoXfu5xqgSq2miyDc7mLBfk7ZvMRzGLVaV3aB0_k8lywoMTrSYy7wozp3-ooAYueMeG_eyZCMOY8c8yiUSInc3XJ0tSc4TT80zWm7u_grlDV4nJanQ6y7uViolTPWem804iM6Z0xCE41XU4xB6MSJNULJ2Pv-",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEBjLh7UhSYXnWgleTTMCMzQn5ibVrwVgqmQGQFfnGAaznHHnZwVxyzzUREtdSR43Xx2M_n80EeLllkAAqJ3MiQ1VRrCIixEMbq_EUQhinji6mkjoo7-7NMd4ExZ08EGrbhpYjR-QbMMHT1jOVQExPne1G9ZnHiG-d8TcrxHTp6xNkmj",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEBqiYoeIRtJBXqYgcmJMsZ8d5lTaAlAzLOfRNChNx3zEG4mr_aB10-QtFQ4FzW2cxvI268zN0dlRYbmqls4FdZApSvUcMAgPOd3mKM64jrsmLPVON-py2Z4qOcUVeIavaZwT1O7GajNJi1jkLUmZQyRSRixK6pzzHlMP73M8QMndc9Y",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678165.9843142, '2022-03-07 10:36:05')
+1. DBG, 1646678165.9852452, In main!
+2. DBG, 1646678166.750469, I recieved a request! currently in handle_connection
+3. REQ, 1646678166.75119, IAMAT client_test +34.06893-118.445127 1646678166.7497678
+4. SOC, 1646678166.7522993, to: Bernard
+5. RES, 1646678166.7528756, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678166.7497678 +34.06893-118.445127
+6. SCC, 1646678166.7535229, to: Bernard
+7. SOC, 1646678166.754488, to: Juzang
+8. RES, 1646678166.7555783, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678166.7497678 +34.06893-118.445127
+9. SCC, 1646678166.756515, to: Juzang
+10. RES, 1646678166.7574885, to->(CLI:client_test), AT Johnson 0.0014221668243408203 client_test +34.06893-118.445127 1646678166.7497678
+11. DBG, 1646678167.7911417, I recieved a request! currently in handle_connection
+12. REQ, 1646678167.7919743, WHATSAT client_test 10 5
+13. RES, 1646678167.9766667, to->(CLI:client_test), AT Johnson 1.0422065258026123 client_test +34.06893-118.445127 1646678166.7497678
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDKGpLm8hKFYYWMa9UpofbELh1cxmQX8KYf1oLz0bHFU46_COSVdko40Ez4C_W0JYqbfSZ4fkpIpbrBEaKWcPgSBGNetqR8RLqIKDTRt6CxyxmQ_udLykz8szfzlIopWD0dXDlHvurfY0HQafNxz2IYBWkb12Vsqxygl9NRctk7zJ30JB7DYpGwlQ_a-3dbLcKuiKL5UIBj3EWcBgv__C9xGHx_g-DEo3BuOg5fTKX5YhAvjr8uPZJSlaf0nNQtwc4ue6aEbyXuOPp1G_b93rNDqyYYZJ1qnDEes3KUp9k2-5XFY_r-I1NI5BQYPPx1NJT53-2VkkQwnHj65mOWaFL2_jqqrbJEUigWKjkMyLoLevy16zMPtAvMlfSuf-7Jc4jJjdtdnbPPWty7UlFWtoM4vqweRWqX-jceMerjxPia",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEDqBDgVr10-nbKdch87xRQUkzKKWA88b0DqXqUAbGT0m2QUhoWaifJ8_4LgQQE3uqHz71NsBHxuNtG3wpSKfmkXp2GXcOwVPz6be9cD_Z9ezNdBJJkPBYSq9LiwhVLkzJKw2RuMIzs1vTTqGW1Rl4x4cDakKmmG4NWA8YPSNRyvKrwO",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEBr15DkTiofoxycRxKuA8OzvsyTKTD1GqZ6d4KuNR7_wItPiCzOJpQHhtfGuSNEjAmfph3kpf2aYCj2OnqxTXpqbFQ5WWVtZYL9FhKKpbguKoWS3OeUjeYFNKO5l31nJcjbvlerJVZX9oK3aci5wEVkLsATY34Ssi02jdKIYlxvGOW1",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEBT0wF_eEDihKJ0Ow9uhr-GHjzsYLpxdUqdWxcJm-fGq15Lq-jTVjA-iihQHiTa_nDt_vIt7VwvJIX_G1qQIiU5ryWa5aahAS5NubmBbiuQeCVLgj-umY6ccFML2lXKzXBZ1cZpq3sUceRijxDNe0YDYJmKKx-0qRpv3g_dYzwiFSkm",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEDB9Pg4aGe5UyToBi9Q2F27W7Kvy4q9m8hDf2Jtu6rtL-uwgobDBLZzqYMklMmlc73j_5-Bv9XEKsvRCEGJPxnExN4YLRlY2ySD62dFgy1t50NdVlgNaQ3QKZ2rhTIEgEYYN80lyk8XCuR2M_pVPOdgVhdCqGpfZYxB0SItFLSiXvMI",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEAz4uj21PwieJKYT_27JjQ42wIwkzJvUUot7oqaFmLtID278hh4sdKtzLShjLEGA11oks_8AMjYb2SYuqkgzN5HTNCfcGfiWGVCBzkuvtngYT43jTmiqWEvcr-GyYFcruBArfwcs7Ai-ZAOor-m7NLjpro01uX7BK3dMyl_nJAuUN6Q",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678170.3556209, '2022-03-07 10:36:10')
+1. DBG, 1646678170.35664, In main!
+
+--------------------------------------
+(1646678173.5016878, '2022-03-07 10:36:13')
+1. DBG, 1646678173.5028944, In main!
+2. DBG, 1646678174.2703328, I recieved a request! currently in handle_connection
+3. REQ, 1646678174.271064, IAMAT client_test +34.06893-118.445127 1646678174.2696314
+4. SOC, 1646678174.272378, to: Bernard
+5. RES, 1646678174.2730641, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678174.2696314 +34.06893-118.445127
+6. SCC, 1646678174.2737627, to: Bernard
+7. SOC, 1646678174.2748256, to: Juzang
+8. RES, 1646678174.2756824, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678174.2696314 +34.06893-118.445127
+9. SCC, 1646678174.276418, to: Juzang
+10. RES, 1646678174.2777455, to->(CLI:client_test), AT Johnson 0.001432657241821289 client_test +34.06893-118.445127 1646678174.2696314
+11. DBG, 1646678175.2605093, I recieved a request! currently in handle_connection
+12. REQ, 1646678175.2611847, WHATSAT client_test 10.5871263 5
+13. RES, 1646678175.406137, to->(CLI:client_test), AT Johnson 0.9915533065795898 client_test +34.06893-118.445127 1646678174.2696314
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDx4bicBpzY6uzvAt0syai0LAhIqT0XdbrVZQPUHJYo18wSH5eFeuGMkMklJfU90tVGFKkb0zRIXMnPKPvqiwUy6Zuf7jDf384IST-oENQEBnHknUg9tbIPvLsYK1ZKW0D5pJF1zXUH4tgc92Jo7ixpdR14SLdF85rBr3ydaQZm3Levj5O-KloJCd9e2O1kFGyVIXA4k781h3oFGEWzw_6CAQVYp8lH_ImUZuU0IE4FXWVCiIcUsj-mWN2vIsm2PGGCgDGHZjHqtM89y23DAsYbyrBGzRipQjkWrZ90I02mDR0neao6Fhg_o7DDH-cnw9rPKBBw4dTzStlO8P4ojtvHO9ufQgu4HtMMH6NDi0ntuPok5emZir8_dGUkkj2AFyG-A4IPAYqq8DR52SLYSUYKiLSGgNiRV4aBVf0K8Xbo",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEBMb-kXuOwkOvxt1GcyN2CC08i0kkZeiP2ALrngsyzXojmZ_O0OtDXaEYG8oIIWL6X1D0Soh9bxpoVUhos8d3HwFWPJPoKie9tg7VU8gZnXVvPjYPngO_h0YyRQOoWuSembJCyPVflNrb45sqiA7eHWWdk0pXDuG3S_M-Gkg-DKqu4T",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECBguaVyGNngMSPG7T-Uo9G2yi7KfoohT5leccpMzPkMcqcHutuDF66BJQShCEqW8DTVsnxlwmh_UxNBWdvBpMBE_oSJz-cBvnzJp2y9qn9mu-LqquRLdGZfivKS9jEBJ_mGtwbgZoi1VNdOQ5HUpzOwaERk0M01rFJHD1TfUvWspJp",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uECQCaIQQWs0SwOMwhGrRtLKKSoFTj8HLfn0Khrqp-Vt9cVduYf-u905EHG2MXzq95ialdEgrATiIz-LTaU2oBqlqN4PaU-aoOlg47R9hQPjeEWSd2Td53ykOPrN_oKkBUjszepMjZgI7TPUlHHzmOROuCx1l2w9PCJQXtdD_LXVuUY7",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uECvWEoexGwetQsuZQI8yNEu2tmbIcUDl4Omx776_LORQTOqoMTHHYTytPCGrl6ROEXQ4pGREfTF_jVEXKt0tYRAnOWWljBGKTrNA0lpnZnFbX5GEODBCdaMqhLYeYCF48O-z-yosvOeHhIhUzxmE3AlBm7985A4cTTeIvba692Z_BWd",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEBIWF9O_mzpZVv6nrDNIaG_tuouhGmyPXYMX-a2-uhsRveUaLOEGXbqlOzUWEOJo1KzNbySQtucSWmWFUIS41sfgmm_riXp_cCqfxWLxGZ0SXot5JDYh6tabbtmRgTATb2AXZynWw7_eIg52LVGVCvVZ5W_CDgtvCH6tMuH4K6YWAed",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678177.7950823, '2022-03-07 10:36:17')
+1. DBG, 1646678177.796219, In main!
+2. DBG, 1646678178.5563536, I recieved a request! currently in handle_connection
+3. DBG, 1646678178.557844, I recieved a request! currently in handle_connection
+4. DBG, 1646678178.561103, I recieved a request! currently in handle_connection
+5. REQ, 1646678178.5621676, IAMAT client_test +34.06893-118.445127 1646678178.5607138
+6. REQ, 1646678178.5586896, PROPAG_CMSG Juzang Bernard,Juzang 2client2 1646678178.547316 -34.06894+119.445127
+7. REQ, 1646678178.557804, PROPAG_CMSG Bernard Bernard 2client2 1646678178.547316 -34.06894+119.445127
+8. SOC, 1646678178.56591, to: Bernard
+9. RES, 1646678178.5666356, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678178.5607138 +34.06893-118.445127
+10. SCC, 1646678178.5675244, to: Bernard
+11. SOC, 1646678178.568325, to: Juzang
+12. RES, 1646678178.568914, to->(SRV:Juzang), PROPAG_CMSG Johnson Bernard,Johnson 2client2 1646678178.547316 -34.06894+119.445127
+13. SCC, 1646678178.569637, to: Juzang
+14. DBG, 1646678178.5706306, I recieved a request! currently in handle_connection
+15. SOC, 1646678178.571336, to: Juzang
+16. RES, 1646678178.5730398, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678178.5607138 +34.06893-118.445127
+17. SCC, 1646678178.5738978, to: Juzang
+18. RES, 1646678178.5749629, to->(CLI:client_test), AT Johnson 0.0014538764953613281 client_test +34.06893-118.445127 1646678178.5607138
+19. REQ, 1646678178.5712962, PROPAG_CMSG Juzang Bernard,Jaquez,Clark,Juzang 2client2 1646678178.547316 -34.06894+119.445127
+
+--------------------------------------
+(1646678261.7267733, '2022-03-07 10:37:41')
+1. DBG, 1646678261.7280009, In main!
+2. DBG, 1646678262.4933784, I recieved a request! currently in handle_connection
+3. REQ, 1646678262.4942796, PROPAG_CMSG Juzang Juzang client 1646678262.4861875 +34.068931-118.445127
+4. SOC, 1646678262.4977434, to: Bernard
+5. RES, 1646678262.4988081, to->(SRV:Bernard), PROPAG_CMSG Johnson Juzang,Johnson client 1646678262.4861875 +34.068931-118.445127
+6. SCC, 1646678262.4998372, to: Bernard
+7. DBG, 1646678262.5051155, I recieved a request! currently in handle_connection
+8. DBG, 1646678262.5100749, I recieved a request! currently in handle_connection
+9. REQ, 1646678262.505776, PROPAG_CMSG Bernard Juzang,Clark,Jaquez,Bernard client 1646678262.4861875 +34.068931-118.445127
+10. REQ, 1646678262.5109627, PROPAG_CMSG Bernard Juzang,Bernard client 1646678262.4861875 +34.068931-118.445127
+11. DBG, 1646678263.000669, I recieved a request! currently in handle_connection
+12. REQ, 1646678263.001473, WHATSAT client 10 5
+13. RES, 1646678263.185733, to->(CLI:client), AT Juzang 0.5152854919433594 client +34.068931-118.445127 1646678262.4861875
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEBXkru6ZiLWIww5f_lfSsLZBejf6jqYwtqe1jwX-Z-yH5fOMYrIdRaS4dlSn-k32cq9HdtBEOIthIu2oGpi14KXffGKGRm95PRgN2UQOjubqt2qP_dtsxyQv6CV4nHZXWFmSVH8v-XIv3hH7PLGu2u2059wbRfnb4qnpNR49DndhbomoniKqdPs2x0ITWLM0EqZLkNf5Nau3gpM3IG9X4fNP0cGr9WUfp_m2k_N4tPDJKJuOkiJKVcg6lKotCw8pDAnhWUEzcQ0oTKhljRFVj12IONMpKupzwu3fMIvqKboA4wKHDdTz3792E0xi8nmAKO64MRN1MqbMq3Gro1_V0Ds-8W5U980hByy9PsTJVbkqRmhmo3DExvPtb5MYGFMSuO_4dnXmNZDMjzGC-DAOKy3MpsaOe9zz6ERVERgQwPW",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uECQIEOy3GJE9ptnqt8PmtkO0DN9hj7lfeh3lGAeTW5dv6tDc27To1LlS81gbueT8hNFhCIecsCtQl0N0a555VlYtyKlsWoXyhxnRqwh56Gi5hxpHma3PPDeKouMaxPTz8Bvh_Y36hRAA_xrXoFA6xTMJPXPqGVesUt_3IK9ph6aBsxy",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEAp6a55_Y8yMna8SWDZXk3x9oLK_7js8nBeRmv0PMKnTBunI7UGtol4WLoVb53YynyHRrvfjtDJrYg8thRGnrOxYUuqaguMNmzOBL6O0i0QwUIh5Npf1ADOvOathrulYbMjnKB-uYBHRVOvPCdSjYcCTFhNz69PuxMo1SX6Jsum-_tY",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEC4qsu-7KETmeHpKu2a3EocgA-pmBWfINUMYL5xT4N9VWnscLUxBq02QXes40JbxDtcQ96pdF3Mq1ZqHMTkgyAjy3C9CmKBF102kzTd-M6a3Z7hAiE-FTymwiLkMWOrW88FMNY9ZlVCrtllcI5gpH3sUXDK6JxgGhYnezlMDWxtRaDx",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEAYIzQis_0bDb7ymcoWJQh9CYkjbGW8jzWFQ-V3aLZ2331qzvR8JTlJpFNYiEXYlOGJsLIEx3npvhPz2Zrm6Kyc0kDfDhbw3Cc2t7uZFf_SnCLYOrR0PsROkVjMLnm-YzWoj495sA_B-qP4Nv2ticvou5K-Scn1hgh3iQ8wKRqaI-8G",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEAhLLVWI4h20epozLAuVX6f-HzREJT6OCHGDt6Z4E7v7NdSCgIV4hDyeUC_ywLqNvH7Hat2xMpmo1uk5nmjpixFMByCCmGPJ87GE4fE91Lq8ywYgBC2GMdInSxXCNMMJkMbUdW7KXyWNGbrI5LdKolMUEHabZwER8IR-RUKtKIC81iU",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678265.6880774, '2022-03-07 10:37:45')
+1. DBG, 1646678265.6892002, In main!
+2. DBG, 1646678266.4533036, I recieved a request! currently in handle_connection
+3. REQ, 1646678266.454016, IAMAT client_test +34.06893-118.445127 1646678266.4526045
+4. SOC, 1646678266.455199, to: Bernard
+5. RES, 1646678266.4559913, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678266.4526045 +34.06893-118.445127
+6. SCC, 1646678266.4568071, to: Bernard
+7. SOC, 1646678266.457867, to: Juzang
+8. RES, 1646678266.458681, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678266.4526045 +34.06893-118.445127
+9. SCC, 1646678266.4595068, to: Juzang
+10. RES, 1646678266.4604506, to->(CLI:client_test), AT Johnson 0.00141143798828125 client_test +34.06893-118.445127 1646678266.4526045
+11. DBG, 1646678267.6012373, I recieved a request! currently in handle_connection
+12. REQ, 1646678267.6021945, WHATSAT client_test 10 5
+13. RES, 1646678267.74685, to->(CLI:client_test), AT Johnson 1.149590015411377 client_test +34.06893-118.445127 1646678266.4526045
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEAUbEpCjtatGlOwU_0jxDp25hnJmfcBm6eGvjTPyOmPLgqpV33xXR4UqNOd4Gwq0AaHmnZDs49cmJ2HnNitGdHycXgK0uU8U3NowNbql-RxdCqc3NuAc6Bzy1tz6Cy1wE9LXoixJ40Uy9jJLtS2yMvYX81WiC3oSbSpU5PMGOS3f8swgt8zuovf5AtJOaWQsgaLdhLPlTiDLVMr9w8GvjW64P71l5OjpomQuJ8n5xIabMxj0UUOnsFdBGWaOvWR9lSL6EFIySWURZQIS-KlIuXVxpfvjtmQ1qwfrrT5Q5S3W0IjNsCmFsLk6AOJ-ajg-Y7t-33HKfTvgH7DDqGuWHktHUgBR0oLHoBwqNA8Xg8Z1P_AAsjvJrn3CM6UETZ-7gq8tVkpX3nMmZfXoa1ynLGXujq7e7x6bQqGvTSYKPmx",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEC2jx33HaAuMDctS9z6oQ6SjB3I86n25UvgNDP0rDOdL58YDJgPrWggcE0xHdDMOVxJQ-GOSE4VOXivQ1n2CaIvZ4k_2HpuKTXXbmRSyyfdewkHB5g_Wz3QiMymKNz2SQtSpF7nQB6FpwB8X80PSj6qAKNtSjZj-Tuq29Jp1dsZ28qu",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEAzwoefQK4yUu-WHkfOm53wJp6az0ZxSIHImkk0dAkoPrdHWhk-xJzw7Xwn9tVMqJZLMpfr64yH_oCm-Dr4eJqVYT0qDtwM2c9WYILACzyYbEgCYdM5iG28IV9Kd0qHszpeF3yGdtaE1i2fAbZqfaje_R6IfpU73qBbxf3GcpeKKrcz",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEDEtcQhVMuih4_gfm0WfEBME293K_PO_YTQipQfoLrt6860iO4Ac6zMuaJE8tJjbke5ubm7djgvABZT9VGVFfVPmoHNtrdfazfrdIpA4rWd0FJ2rPqJ0zwe2KJ-jbmswRvZrwMC3SBi076Vmo3mGT5yo2IfFn16oTheBP3RUbJfb9MJ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEArUfGHumzVw1iJVc8O-WMJvhh6f2LPMgXvfCbedw8Mlyk_SwqX3J8Z1DrKAwkWRGujO2bvOd6rd-vAnjh_ktuLEMum3wAPBvG639aA3d4RiDr_OZOmco0jxAz-dYSte1Mm0flEZiS9EtkVPj67BWnuvZA8qNg9dpIA2pKoO9xk_Nqa",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEDSKKyfKaZJLagP5dXBrxI2KmchLAH046aiFKTEJhFKCRRqJGf4Z4B7y0vsj7D3QtLSVAHNfE5HY_F41hdfPl288S336JMztYvx_zV-_QjY7MPkJkGkZZ_12JSAlWYTc31ewENkaRsS3GAwRx80jR1fs5kNNC9jdP2YHTChUAGnpnDQ",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678270.1383467, '2022-03-07 10:37:50')
+1. DBG, 1646678270.1392527, In main!
+
+--------------------------------------
+(1646678273.299246, '2022-03-07 10:37:53')
+1. DBG, 1646678273.3003318, In main!
+2. DBG, 1646678274.0544522, I recieved a request! currently in handle_connection
+3. REQ, 1646678274.0552075, IAMAT client_test +34.06893-118.445127 1646678274.053762
+4. SOC, 1646678274.0564137, to: Bernard
+5. RES, 1646678274.0570815, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678274.053762 +34.06893-118.445127
+6. SCC, 1646678274.0576684, to: Bernard
+7. SOC, 1646678274.0585747, to: Juzang
+8. RES, 1646678274.0593355, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678274.053762 +34.06893-118.445127
+9. SCC, 1646678274.0599916, to: Juzang
+10. RES, 1646678274.0607138, to->(CLI:client_test), AT Johnson 0.0014455318450927734 client_test +34.06893-118.445127 1646678274.053762
+11. DBG, 1646678275.069723, I recieved a request! currently in handle_connection
+12. REQ, 1646678275.070581, WHATSAT client_test 10.5871263 5
+13. RES, 1646678275.2167435, to->(CLI:client_test), AT Johnson 1.0168190002441406 client_test +34.06893-118.445127 1646678274.053762
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEA55ot0QqxGM6LK81CFuhMPNlIaRMJz1dDiCbkRPga9cucBFC7AvuwdTXLzVuAap1NbtnnWCKlYg9MFxvnmqTsk9_BQTv99Og89-vueTpjcu8z3ZFrA6CVIOM38vMvY3r1ENzvPTVAYClCIOSYz6VWxSJfgVADNeMKF1e2DO3h4pNJ1geX-olvNEWbCiAM4lkfz-oLZEjSVvZ1WTs-H_8r_PMK6EbtbuOIL5Q1xp7CBP_Ulx0WY4vw3k5vyi7AJ01HugKqugZ5gjsj-d9tO3u5F9Z19q7YWalJlW99CGCJ1hhP4plJZ_JTljJww3QxTXZp_9RnLE0zqacmhPRZp6ksbTLZwVGjBwzYpKHJR_FvCgBDm64jN9uRCgPlY4vTsW79w48yWRBe9VnzMtAWvvhL_JFnWQGDE2AM5bp4K3zYv",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEA9OJQVcScrpHmUTqIiuqhCvYmsP8c7qnZmQvT_AuPIHqgdtEGPR4IavqpqZwNqvJGTmcpX4nT11_YcW9OAUJPXjcY1euiuyUzuSPtYJmHg2fMlczC_uF02Hj2O5vUVb-geAV2XWltHxYv9SphjiFAooJ28lUjOsAT_5tzVO723Bh-l",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEBRRKQi3uAAuymIDKWjcVMyjxy95mempmPNVZ5oEVbwlqcal85V5uCidl91FjPrLhBf8T4d7SyV9mspb4XlAUNSrm6q9D9kO4OSZfSaB27ERux9MWXYJlDuxQTjKvTB1PuzHdZu1zdEp9HSD0RTMdxMKeNW78pGJoV-31Gvs4fhuLjU",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uEBFUhKODdoy_DDxlHsiFSmfVXnRnGZ5tskarCDUZ5IDxttTlkjt0HVG5X5p4wxtzk41u8XeGHoxLDO8YEDXZ_WXAwx0qucaFg_bG_m87cI_JnUGUhz07Qpu1WMBqaBl_0nhX9QHHA5e4fOHdUNE6aiIJwvO4U2z2KJJ_paJuMjXLUJf",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEB5J7j-nhWF_3O6M0kv2hM5e_s5vXSwTv3TdHgmPLqFaX1lUmmd4aNgIGGJ643WR7rW5iUOfBkeqBjhXzCnB6-J1gUDmSNIS90ChJjD0HQJOwD9r115rPpJ-j9cSwsuq26n4eZZGXrxIcnINmeEv2DOcy-6ObhI-ENibr9As_-8cbiP",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEDlMUwujb4flVKN1SpcfnzBSBTwGKjfHRs-EdOFBZYDQkILo5zTkRh_fUOD5C3Uc7S_zDIzra-K9JpFghx5_wasQb9uFEHxIU15g_ixDLnjP1GhSPQa52Hj9xB04B7ffhCXZrvynhHTwmLljmGM-mI0qTLTfnyjwMcFhLYGTLJwM8Yd",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678277.6007833, '2022-03-07 10:37:57')
+1. DBG, 1646678277.6019156, In main!
+2. DBG, 1646678278.3687806, I recieved a request! currently in handle_connection
+3. DBG, 1646678278.3713942, I recieved a request! currently in handle_connection
+4. DBG, 1646678278.3726556, I recieved a request! currently in handle_connection
+5. REQ, 1646678278.3743718, IAMAT client_test +34.06893-118.445127 1646678278.3718703
+6. REQ, 1646678278.3698323, PROPAG_CMSG Bernard Bernard 2client2 1646678278.3602872 -34.06894+119.445127
+7. REQ, 1646678278.3723984, PROPAG_CMSG Juzang Bernard,Juzang 2client2 1646678278.3602872 -34.06894+119.445127
+8. SOC, 1646678278.3787045, to: Bernard
+9. RES, 1646678278.3793883, to->(SRV:Bernard), PROPAG_CMSG Johnson Johnson client_test 1646678278.3718703 +34.06893-118.445127
+10. SCC, 1646678278.380137, to: Bernard
+11. SOC, 1646678278.381067, to: Juzang
+12. RES, 1646678278.3817403, to->(SRV:Juzang), PROPAG_CMSG Johnson Bernard,Johnson 2client2 1646678278.3602872 -34.06894+119.445127
+13. SCC, 1646678278.3824081, to: Juzang
+14. SOC, 1646678278.3835213, to: Juzang
+15. RES, 1646678278.3842316, to->(SRV:Juzang), PROPAG_CMSG Johnson Johnson client_test 1646678278.3718703 +34.06893-118.445127
+16. SCC, 1646678278.384828, to: Juzang
+17. RES, 1646678278.385568, to->(CLI:client_test), AT Johnson 0.0025014877319335938 client_test +34.06893-118.445127 1646678278.3718703
+18. DBG, 1646678278.386608, I recieved a request! currently in handle_connection
+19. REQ, 1646678278.387768, PROPAG_CMSG Juzang Bernard,Jaquez,Clark,Juzang 2client2 1646678278.3602872 -34.06894+119.445127

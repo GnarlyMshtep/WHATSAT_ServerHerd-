@@ -12,7 +12,7 @@ u_logger.log_debug('intiated ulogger', time.time())
 def read_api_key(logger):
     #u_logger.log_debug(f'in readpai_key:{os.getcwd()}', time.time())
     try:
-        with open('sample_submission/places_api_key.secret') as f:
+        with open(f'{os.path.dirname(os.path.realpath(__file__))}/places_api_key.secret') as f:
             x = f.readline()
         #u_logger.log_debug(f'api_key is {x}', time.time())
         return x

@@ -25,3 +25,6 @@ As a rule of thumb, values are stored as strings and converted just at the momen
 
 ### Need to solve
 - reading without readline a single time
+
+### Report to do 
+- add some analysis from the src 

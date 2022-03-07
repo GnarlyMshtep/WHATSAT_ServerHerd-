@@ -303,7 +303,6 @@ class SuperClient:
 
         # terminate Juzang and Bernard; now Clark and Jaquez are connected, but Johnson is not
         self.run_endserver("Juzang")
-        print('juzang ended at', time.time())
         self.run_endserver("Bernard")
         data = self.safe_run_iamat(
             self.Clark, test_case["client"], test_case["latitude2"], test_case["longitude2"])
@@ -321,6 +320,50 @@ class SuperClient:
         print(evaluate_info(first_line, self.port2server[self.Johnson],
                             test_case["client"], test_case["latitude"], test_case["longitude"]))
         print(evaluate_json(json_part, test_case["max_item"]))
+        self.end_all_servers()
+
+    # test 4 for overriding data
+    # we send Johnson client1 IAMAT, then johnson propagates to the rest,
+    # then we diconnect all but clark and jaquez and send clark a more recent version of that client
+    # jaquez should answer with the more recent version
+    # we also send a second client to Bernard at the begining
+        print("===============")
+        print("Test 5")
+        self.start_all_servers()
+        test_case = {
+            "client": "client_test",
+            "latitude": +34.068930,
+            "longitude": -118.445127,
+            "latitude2": -34.068940,
+            "longitude2": +119.445127,
+            "radius": 10,
+            "client2": "2client2",
+            "max_item": 5,
+            "radius2": 10.5871263,
+            "max_item2": 5
+        }
+
+        data = self.safe_run_iamat(
+            self.Bernard, test_case["client2"], test_case["latitude2"], test_case["longitude2"])
+
+        data = self.safe_run_iamat(
+            self.Johnson, test_case["client"], test_case["latitude"], test_case["longitude"])
+
+        # we only have clark and juquez now, who can talk
+        self.run_endserver("Juzang")
+        self.run_endserver("Bernard")
+        self.run_endserver("Johnson")
+
+        data = self.safe_run_iamat(
+            self.Clark, test_case["client"], test_case["latitude2"], test_case["longitude2"])
+
+        # the record at Jaquez should be the latest copy from Clark
+        first_line, json_part = self.safe_run_whatsat(
+            self.Jaquez, test_case["client"], test_case["radius"], test_case["max_item"])
+        print(evaluate_info(first_line, self.port2server[self.Clark],
+                            test_case["client"], test_case["latitude2"], test_case["longitude2"]))
+        print(evaluate_json(json_part, test_case["max_item"]))
+
         self.end_all_servers()
 
 
