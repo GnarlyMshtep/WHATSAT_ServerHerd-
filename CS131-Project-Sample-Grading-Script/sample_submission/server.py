@@ -44,7 +44,7 @@ def possibly_update_client_infos(client_name, client_timestamp, client_loc, orig
 
 async def main(port_num):
     # I think host is right?
-    logger.log_debug(f'In main!', time.time())
+    #logger.log_debug(f'In main!', time.time())
     server = await asyncio.start_server(handle_connection, host='127.0.0.1', port=port_num)
     await server.serve_forever()
 
@@ -89,11 +89,9 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
             await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
-
-
 async def handle_connection(reader: asyncio.StreamReader, writer):
-    logger.log_debug(
-        'I recieved a request! currently in handle_connection', time.time())
+    # logger.log_debug(
+    #    'I recieved a request! currently in handle_connection', time.time())
     recieved_timestamp = time.time()
     data = await reader.read()  # works if client adds an EOF, gurenteed by @257
     dec_str = data.decode()

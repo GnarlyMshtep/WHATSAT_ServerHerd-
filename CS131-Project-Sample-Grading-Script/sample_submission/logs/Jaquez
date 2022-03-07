@@ -706,3 +706,681 @@
   ],
   "status": "OK"
 }
+
+--------------------------------------
+(1646683938.9738383, '2022-03-07 12:12:18')
+1. REQ, 1646683940.2473042, PROPAG_CMSG Clark Juzang,Clark client 1646683940.23876 +34.068931-118.445127
+2. SOC, 1646683940.252325, to: Bernard
+3. RES, 1646683940.2542055, to->(SRV:Bernard), PROPAG_CMSG Jaquez Juzang,Clark,Jaquez client 1646683940.23876 +34.068931-118.445127
+4. SCC, 1646683940.2549899, to: Bernard
+5. REQ, 1646683940.256143, PROPAG_CMSG Bernard Juzang,Bernard client 1646683940.23876 +34.068931-118.445127
+6. SOC, 1646683940.2590568, to: Clark
+7. RES, 1646683940.2596962, to->(SRV:Clark), PROPAG_CMSG Jaquez Juzang,Bernard,Jaquez client 1646683940.23876 +34.068931-118.445127
+8. SCC, 1646683940.2603738, to: Clark
+9. REQ, 1646683940.2561538, PROPAG_CMSG Bernard Juzang,Johnson,Bernard client 1646683940.23876 +34.068931-118.445127
+10. SOC, 1646683940.2626936, to: Clark
+11. RES, 1646683940.2632802, to->(SRV:Clark), PROPAG_CMSG Jaquez Juzang,Johnson,Bernard,Jaquez client 1646683940.23876 +34.068931-118.445127
+12. SCC, 1646683940.2639325, to: Clark
+13. REQ, 1646683940.7116897, WHATSAT client 10 5
+14. RES, 1646683940.864786, to->(CLI:client), AT Juzang 0.4729297161102295 client +34.068931-118.445127 1646683940.23876
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEC1NUIzd8qMKAn6pVPKP6qxwS47BEApLPgROSJJT6QofVYwOAx3MM36nKkVhhX3KUxsvNn5WaBF0IVRnKZ2-Vt7NJTkZstXi5K1YmkGfdt6i-AWLG0opx1QQ7FjgPAiiCFYewkLVvjwdfTL5aM2J3IiaJ_zIHP2Exsd9YxgTGfBl7VLZ1XMqXKrr8QhhFSUtRiW0uJ6jCvizZioA6zKKVeLOIOCR3eOKtgq74lpieENTelwPKozKuv9K58neOBiJI7BGEyLPhvdnENVAc6dAGkwjUq_2o_vYFs2WRxMnBe9yZWIlmu3i3IXis0WrGwGiw--uq_NNfCLtM2M8UZkiAM2WtFmITwyiiQWZAKfITG8a276N12euB70IvlNuyqJ55C2O8zQ65Sj5Ar6CWU40ba-hglBpiu9Cv4W9MT_r0YB",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uECJ4vlQOZsc1UsLQoLlnrAWB-3_A3juVM9IE84GqqqHFtVe9djd1cMS_gDc5nOzUa3jwnSVJ9e0dukP-1BG_R25rsXUwgjxS5mRwnWbxzvKWoOsUp2BT5atpS2mO0QwHdaCTJjru7HOiv8r2mRLtEH1hvDL0lz6B5-vkbWBiOmPLcCV",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uECYQDvbJGrPPLbmRaIwoNuuq0jxw5voZ532FXPm1tlhblOlzsfaLEqBFKaIJ5KbqfqgAphdevpfRxworRjgTkiQqbK0iBJ7pZIOifjX_g5Q3b8CX7EPZNWFvdp97UBxIK0lV0OD0DUXKj5jRl-uuTFnWxxfLeRpN65XY6bgrlL-knQr",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uECB-8kOouf1tq6vU9d_S2j4JfUvPZyHtgUr3lcGwVLFPJOET5W_XLnsYHvp2hk164oJyOaqXTeWZCyVIT37AXTyrHWQvi4Hfcuy9r5dR_tWwqli7VHhA9ea4jmeCO6Q6DTn7my5Hl9xB9YK4609_BMOHzKan7C9mIokMc8OCkPPHIZo",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEBecMob5yN3EnAJSwHyxzVw3mMchLQb_lu_6jpxkwis9BGj_RhuEy5H0eLpFNGSVzP8wx8wls_tBDjgXK32mgMkrwpeWBjVVo6nHk_DJS-TLJZgIib1KL8YvaCIXeP1b_esbHSLRr6pTEJpP3gNTPAiL_jFb9wb6pbUu49G0MdWh497",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEAF68GUNJ2vSrVcd_BryAE1F_HWfXKE5J9z6Evn2WpOhmQDQwURBJs-35zfEBdsDHWksW8P_tOCpaxliKiYHdg6RTeHCKwqkEIxa_CoDMXZOVL32QL0RkJUtSTsbKfeX2CnID1HH9reEfc5yStW5HEe4mCqYaqJOaUbE6pR8wPkodpw",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646683943.0681233, '2022-03-07 12:12:23')
+1. REQ, 1646683944.3445973, PROPAG_CMSG Bernard Johnson,Bernard client_test 1646683944.3358092 +34.06893-118.445127
+2. SOC, 1646683944.350946, to: Clark
+3. RES, 1646683944.3519459, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Bernard,Jaquez client_test 1646683944.3358092 +34.06893-118.445127
+4. SCC, 1646683944.35306, to: Clark
+5. REQ, 1646683944.3543518, PROPAG_CMSG Clark Johnson,Juzang,Clark client_test 1646683944.3358092 +34.06893-118.445127
+6. SOC, 1646683944.3559916, to: Bernard
+7. RES, 1646683944.3570259, to->(SRV:Bernard), PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646683944.3358092 +34.06893-118.445127
+8. SCC, 1646683944.358361, to: Bernard
+9. REQ, 1646683944.359832, PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646683944.3358092 +34.06893-118.445127
+10. REQ, 1646683944.3596284, PROPAG_CMSG Clark Johnson,Bernard,Juzang,Clark client_test 1646683944.3358092 +34.06893-118.445127
+11. SOC, 1646683944.3633194, to: Clark
+12. RES, 1646683944.3640416, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Juzang,Bernard,Jaquez client_test 1646683944.3358092 +34.06893-118.445127
+13. SCC, 1646683944.3647468, to: Clark
+14. REQ, 1646683945.1928353, PROPAG_CMSG Clark Clark client_test 1646683945.1906285 +34.06894-119.445127
+15. CFL, 1646683945.196619, to: Bernard, due [Errno 111] Connect call failed ('127.0.0.1', 10392)
+16. REQ, 1646683945.197506, WHATSAT client_test 10 5
+17. RES, 1646683945.4117808, to->(CLI:client_test), AT Clark 0.006877422332763672 client_test +34.06894-119.445127 1646683945.1906285
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.01284029999999,
+          "lng": -119.3741369
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.01421673029149,
+            "lng": -119.3727787197085
+          },
+          "southwest": {
+            "lat": 34.01151876970849,
+            "lng": -119.3754766802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Inspiration Point",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115164465968566402079\">Samantha Hatch</a>"
+          ],
+          "photo_reference": "Aap_uED12gkQH_D7H_n_T6ihDxpK4Ut6yR6o5KQxUqjOrsZg1qiaj_80WVzU3zYW0sT4rDH9MOgbqwEGB30_2qKrmw817qsAMRMgefZgW_96KiqD84JOoXYi1o3sdIx34LzRGG9ZUDrwhF8OJ3bdiqpIPJYAdNzhCoeqKRsSPk8474gpUnot",
+          "width": 5095
+        }
+      ],
+      "place_id": "ChIJacdh4eJY6IARsVORh3aKMHI",
+      "plus_code": {
+        "compound_code": "2J7G+48 Ventura, CA, USA",
+        "global_code": "85622J7G+48"
+      },
+      "rating": 4.9,
+      "reference": "ChIJacdh4eJY6IARsVORh3aKMHI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 51,
+      "vicinity": "Ventura"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.01414370000001,
+          "lng": -119.365014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0155137302915,
+            "lng": -119.3637759697085
+          },
+          "southwest": {
+            "lat": 34.0128157697085,
+            "lng": -119.3664739302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pinniped Point",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111605453577284790857\">Victor PAN</a>"
+          ],
+          "photo_reference": "Aap_uEAwT3IC1ZrVptYrBe4cYIbrJtU8BNJaKIfbREcxW6zPcmOwuHqURj5IJbOI4JXf3AS4WsUqmvHygoK40s7vv2kiW-kuijuNJUrmh87_DwwVISEiadqKwaBCz0ZUJTW3cG5SqjiUZZVTN638zkpnw_fG4oVMZwZHsdOeSFVkGgeq6o3e",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJW_FyghtZ6IARZ7auyiUP3nc",
+      "plus_code": {
+        "compound_code": "2J7M+MX Ventura, CA, USA",
+        "global_code": "85622J7M+MX"
+      },
+      "rating": 4.9,
+      "reference": "ChIJW_FyghtZ6IARZ7auyiUP3nc",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "Ventura"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0155341,
+          "lng": -119.3679949
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0169043302915,
+            "lng": -119.3666078197085
+          },
+          "southwest": {
+            "lat": 34.0142063697085,
+            "lng": -119.3693057802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cathedral Cove",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117079401250198827048\">Chi Yau</a>"
+          ],
+          "photo_reference": "Aap_uECIQigvTciryFwPGckLn5V8xyF-tplXL8Aho8YTH1CB2q6oAi6gQvJDDci6F47yrtaeBR3jv3fty7rjIqMUuJBCuFIxWfROx6d9K7kJ9MsbJ0rpsOJMd9lHq16R80cphRnpp8gr6iA_2JydSasjscw_6cRZbfcTssKRgdH6J6l86W6N",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTRq30RxZ6IAR2T6TbZYmdnY",
+      "plus_code": {
+        "compound_code": "2J8J+6R Ventura, CA, USA",
+        "global_code": "85622J8J+6R"
+      },
+      "rating": 4.5,
+      "reference": "ChIJTRq30RxZ6IAR2T6TbZYmdnY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "Ventura"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.01638299999999,
+          "lng": -119.362001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.01773198029149,
+            "lng": -119.3606520197085
+          },
+          "southwest": {
+            "lat": 34.01503401970849,
+            "lng": -119.3633499802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Landing Cove",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111529410067152658759\">David Rivas</a>"
+          ],
+          "photo_reference": "Aap_uEA-nJ3IXE8o3RMjW9DO0RYOZbvykFF2pbpcaBwzRSspk4r-cXRGC1OoaLBn9_WWXjPe_KUDLs9Sjcqs3_bUrNMs9L3fINs-Zqj0-MEplHRT7JzXxkURSQXoeLor2gx6VsqGni9pZVbLribF-qSlPKfgpzaw_Lsrxl5a2Z56IGkEeWU8",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJq7xm3BpZ6IARkJ0IT7rGPz8",
+      "plus_code": {
+        "compound_code": "2J8Q+H5 Ventura, CA, USA",
+        "global_code": "85622J8Q+H5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJq7xm3BpZ6IARkJ0IT7rGPz8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "Ventura"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.00904430000001,
+          "lng": -119.3868823
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.01039328029151,
+            "lng": -119.3855333197085
+          },
+          "southwest": {
+            "lat": 34.00769531970851,
+            "lng": -119.3882312802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Winfield Scott Wreck",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108285686580184950115\">R Fujita</a>"
+          ],
+          "photo_reference": "Aap_uEDH8pSEnfwxVtOqsVnU6kH6TaWsMm51XJXp5YXTaquStVga-Mp3O4FRXlaFZNt3rVmTMqsOCoDrvzuadJODGz9rVLtSsJfFWUkj53CoIFrGJMdS6lUzLt56dD0EShTuGc9byrduqxbxMmKLB8KKeMO0Xi0D7zMqHvKuLJcGnK7okuwb",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHRH5Wu5Y6IAR_HRWDzWBjJ0",
+      "plus_code": {
+        "compound_code": "2J57+J6 Ventura, CA, USA",
+        "global_code": "85622J57+J6"
+      },
+      "rating": 4.6,
+      "reference": "ChIJHRH5Wu5Y6IAR_HRWDzWBjJ0",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "Ventura"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646683947.4718082, '2022-03-07 12:12:27')
+
+--------------------------------------
+(1646683950.620297, '2022-03-07 12:12:30')
+1. REQ, 1646683951.89992, PROPAG_CMSG Bernard Johnson,Bernard client_test 1646683951.8903816 +34.06893-118.445127
+2. SOC, 1646683951.9047513, to: Clark
+3. RES, 1646683951.9056766, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Bernard,Jaquez client_test 1646683951.8903816 +34.06893-118.445127
+4. SCC, 1646683951.9063191, to: Clark
+5. REQ, 1646683951.908913, PROPAG_CMSG Clark Johnson,Juzang,Clark client_test 1646683951.8903816 +34.06893-118.445127
+6. SOC, 1646683951.9145148, to: Bernard
+7. RES, 1646683951.915892, to->(SRV:Bernard), PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646683951.8903816 +34.06893-118.445127
+8. SCC, 1646683951.9167995, to: Bernard
+9. REQ, 1646683951.9117758, PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646683951.8903816 +34.06893-118.445127
+10. SOC, 1646683951.9193926, to: Clark
+11. RES, 1646683951.9203477, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Juzang,Bernard,Jaquez client_test 1646683951.8903816 +34.06893-118.445127
+12. SCC, 1646683951.9209547, to: Clark
+13. REQ, 1646683951.919284, PROPAG_CMSG Clark Johnson,Bernard,Juzang,Clark client_test 1646683951.8903816 +34.06893-118.445127
+14. REQ, 1646683952.7508047, PROPAG_CMSG Clark Clark client_test 1646683952.7485995 -34.06894+119.445127
+15. CFL, 1646683952.754135, to: Bernard, due [Errno 111] Connect call failed ('127.0.0.1', 10392)
+16. REQ, 1646683952.7557538, WHATSAT client_test 10 5
+17. RES, 1646683952.915522, to->(CLI:client_test), AT Clark 0.007154226303100586 client_test -34.06894+119.445127 1646683952.7485995
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": -34.25760959999999,
+          "lng": 119.4064966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -33.68101890986508,
+            "lng": 119.9766126501535
+          },
+          "southwest": {
+            "lat": -34.41167651264529,
+            "lng": 119.183502698095
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fitzgerald River National Park",
+      "photos": [
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113305765040485111409\">\u6211\u7684\u897f\u6fb3\u751f\u6d3b</a>"
+          ],
+          "photo_reference": "Aap_uEAlths39S0F7Ch9dnAmFEId-RpIMZWhlcSMaOkgHQBVfFpY9j_fttclT32Vug8sTULo3EpNuP4XN9UcTNhYIGqZWWf_hkTRnud1m3Vgk1y9YpKZ3CVlpt_t2fmlSQSt0O3cTO2IxwTYwQ1Ye0-rQjK3HaIe2lk3Zsl368CFP-eP0-Lh",
+          "width": 4800
+        }
+      ],
+      "place_id": "ChIJbbmnEYxQRioRMA56JDj2AAU",
+      "reference": "ChIJbbmnEYxQRioRMA56JDj2AAU",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Fitzgerald River National Park"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646683955.0574768, '2022-03-07 12:12:35')
+1. REQ, 1646683956.2208936, PROPAG_CMSG Bernard Bernard 2client2 1646683956.2151337 -34.06894+119.445127
+2. SOC, 1646683956.2257564, to: Clark
+3. RES, 1646683956.2268686, to->(SRV:Clark), PROPAG_CMSG Jaquez Bernard,Jaquez 2client2 1646683956.2151337 -34.06894+119.445127
+4. SCC, 1646683956.2281852, to: Clark
+5. REQ, 1646683956.23024, PROPAG_CMSG Clark Bernard,Juzang,Clark 2client2 1646683956.2151337 -34.06894+119.445127
+6. REQ, 1646683956.2427738, PROPAG_CMSG Bernard Johnson,Bernard client_test 1646683956.2294514 +34.06893-118.445127
+7. SOC, 1646683956.250506, to: Clark
+8. RES, 1646683956.251259, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Bernard,Jaquez client_test 1646683956.2294514 +34.06893-118.445127
+9. SCC, 1646683956.2521715, to: Clark
+10. REQ, 1646683956.253454, PROPAG_CMSG Clark Bernard,Johnson,Juzang,Clark 2client2 1646683956.2151337 -34.06894+119.445127
+11. REQ, 1646683956.259649, PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646683956.2294514 +34.06893-118.445127
+12. SOC, 1646683956.263241, to: Clark
+13. RES, 1646683956.2639964, to->(SRV:Clark), PROPAG_CMSG Jaquez Johnson,Juzang,Bernard,Jaquez client_test 1646683956.2294514 +34.06893-118.445127
+14. SCC, 1646683956.2648382, to: Clark
+15. REQ, 1646683956.2566533, PROPAG_CMSG Clark Johnson,Bernard,Juzang,Clark client_test 1646683956.2294514 +34.06893-118.445127
+16. REQ, 1646683956.2581875, PROPAG_CMSG Clark Johnson,Juzang,Clark client_test 1646683956.2294514 +34.06893-118.445127
+17. SOC, 1646683956.2675672, to: Bernard
+18. RES, 1646683956.2683392, to->(SRV:Bernard), PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646683956.2294514 +34.06893-118.445127
+19. SCC, 1646683956.2690446, to: Bernard
+20. REQ, 1646683957.521875, PROPAG_CMSG Clark Clark client_test 1646683957.5194118 -34.06894+119.445127
+21. CFL, 1646683957.5248754, to: Bernard, due [Errno 111] Connect call failed ('127.0.0.1', 10392)
+22. REQ, 1646683957.5266247, WHATSAT client_test 10 5
+23. RES, 1646683957.6035266, to->(CLI:client_test), AT Clark 0.00721287727355957 client_test -34.06894+119.445127 1646683957.5194118
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": -34.25760959999999,
+          "lng": 119.4064966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -33.68101890986508,
+            "lng": 119.9766126501535
+          },
+          "southwest": {
+            "lat": -34.41167651264529,
+            "lng": 119.183502698095
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fitzgerald River National Park",
+      "photos": [
+        {
+          "height": 3200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113305765040485111409\">\u6211\u7684\u897f\u6fb3\u751f\u6d3b</a>"
+          ],
+          "photo_reference": "Aap_uEAtgx3Pb3FMz3gP5GSq9Iy1E7w0_toX1vDdOv-JRpC3UqochnkYIRkeRapqkxDG1ixcDLIz2fHRcZH85ljT7v4QkA8XOZ0Hye0fRK1lP0GZYR8cparD-Lo01hglPUIkTwQGOXWdWkQaTj9jEw0B9d9UXmsB2apxrx2Jx5qOQEwlPZ_g",
+          "width": 4800
+        }
+      ],
+      "place_id": "ChIJbbmnEYxQRioRMA56JDj2AAU",
+      "reference": "ChIJbbmnEYxQRioRMA56JDj2AAU",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Fitzgerald River National Park"
+    }
+  ],
+  "status": "OK"
+}

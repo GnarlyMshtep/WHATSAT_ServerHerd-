@@ -42,4 +42,4 @@ async def make_place_req(api_key, client_loc, client_parsed_radius, client_num_i
         async with session.get(req_str) as resp:
             res = await resp.json()
             res['results'] = res['results'][0:client_num_item]
-            return json.dumps(res, indent=2)
+            return json.dumps(res, indent=2).replace('\n\n', '\n').strip()

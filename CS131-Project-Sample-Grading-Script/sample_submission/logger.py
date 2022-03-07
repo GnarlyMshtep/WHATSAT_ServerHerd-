@@ -1,6 +1,6 @@
 import datetime  # for humanreadable datetime at the begining of each eceution
 import time     # for timestamp at the begining of each execution
-import os       # for making the logs directory of it doesn't exist
+import os # for making the logs directory of it doesn't exist
 
 we_at = os.path.dirname(os.path.realpath(__file__))
 
