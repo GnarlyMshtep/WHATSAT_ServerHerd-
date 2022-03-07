@@ -89,22 +89,6 @@ async def propagate_IAMAT_to_herd(send_ls, client_name, client_loc, client_sent_
             await send_PROPAG_CMSG(neighbor_server_name, server_name, send_ls, client_name, client_loc, client_sent_timestamp)
 
 
-async def ret_full_strm(reader):
-    """DEPRACTED"""
-    data = bytearray()
-    while not reader.at_eof():
-        try:
-            chunk = (await reader.readline()).strip()
-        except Exception as e:
-            print('EXCEPTION', e)
-
-        print('here', chunk)
-        if not chunk:
-            print('breaking!')
-            break
-        data += chunk
-    print('here2')
-    return data
 
 
 async def handle_connection(reader: asyncio.StreamReader, writer):
@@ -115,7 +99,6 @@ async def handle_connection(reader: asyncio.StreamReader, writer):
     dec_str = data.decode()
     logger.log_request(dec_str, recieved_timestamp)
     dec_lst = dec_str.strip().split()  # two sources of truth, not super good
-    print(dec_lst)
 
     # if the length is not 4 (reg clinet message) and not (srver propagate message)
     if len(dec_lst) != 4 and not (len(dec_lst) == 6 and dec_lst[0] == "PROPAG_CMSG"):

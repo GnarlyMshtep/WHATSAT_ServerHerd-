@@ -2602,3 +2602,1001 @@ Traceback (most recent call last):
   File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 13, in read_api_key
     u_logger.log_debug(f'in readpai_key:{os.cwd()}', time.time())
 AttributeError: module 'os' has no attribute 'cwd'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    if not we_at.exists('logs'):
+AttributeError: 'str' object has no attribute 'exists'
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 5, in <module>
+    from logger import Logger
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 13
+    os.mkdir(f'{}logs')
+                      ^
+SyntaxError: f-string: empty expression not allowed
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 5, in <module>
+    from logger import Logger
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 13
+    os.mkdir(f'{}logs')
+                      ^
+SyntaxError: f-string: empty expression not allowed
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 11, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable
+Traceback (most recent call last):
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/./sample_submission/server.py", line 6, in <module>
+    import utils
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/utils.py", line 7, in <module>
+    u_logger = logger.Logger()
+  File "/w/home.04/cs/ugrad/matan/Desktop/131/hw/hw6/CS131-Project-Sample-Grading-Script/sample_submission/logger.py", line 12, in __init__
+    os.path()
+TypeError: 'module' object is not callable

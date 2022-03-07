@@ -7,6 +7,7 @@ import os
 u_logger = logger.Logger()
 u_logger.set_server_name('util')
 u_logger.log_debug('intiated ulogger', time.time())
+u_logger.log_debug(logger.we_at)
 
 
 def read_api_key(logger):

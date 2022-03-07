@@ -1,0 +1,346 @@
+
+--------------------------------------
+(1646678960.4699337, '2022-03-07 10:49:20')
+1. DBG, 1646678960.4709709, In main!
+2. DBG, 1646678962.2590055, I recieved a request! currently in handle_connection
+3. DBG, 1646678962.2611198, I recieved a request! currently in handle_connection
+4. REQ, 1646678962.2598112, PROPAG_CMSG Juzang Juzang client 1646678962.249404 +34.068931-118.445127
+5. DBG, 1646678962.2649465, I recieved a request! currently in handle_connection
+6. SOC, 1646678962.2666388, to: Jaquez
+7. RES, 1646678962.2680147, to->(SRV:Jaquez), PROPAG_CMSG Bernard Juzang,Bernard client 1646678962.249404 +34.068931-118.445127
+8. SCC, 1646678962.268811, to: Jaquez
+9. REQ, 1646678962.2629974, PROPAG_CMSG Johnson Juzang,Johnson client 1646678962.249404 +34.068931-118.445127
+10. REQ, 1646678962.2664104, PROPAG_CMSG Jaquez Juzang,Clark,Jaquez client 1646678962.249404 +34.068931-118.445127
+11. SOC, 1646678962.2729893, to: Johnson
+12. RES, 1646678962.2740843, to->(SRV:Johnson), PROPAG_CMSG Bernard Juzang,Bernard client 1646678962.249404 +34.068931-118.445127
+13. SCC, 1646678962.275449, to: Johnson
+14. SOC, 1646678962.2764246, to: Jaquez
+15. RES, 1646678962.2773893, to->(SRV:Jaquez), PROPAG_CMSG Bernard Juzang,Johnson,Bernard client 1646678962.249404 +34.068931-118.445127
+16. SCC, 1646678962.2782054, to: Jaquez
+17. SOC, 1646678962.279447, to: Johnson
+18. RES, 1646678962.281421, to->(SRV:Johnson), PROPAG_CMSG Bernard Juzang,Clark,Jaquez,Bernard client 1646678962.249404 +34.068931-118.445127
+19. SCC, 1646678962.282633, to: Johnson
+20. DBG, 1646678962.4986808, I recieved a request! currently in handle_connection
+21. REQ, 1646678962.4997785, WHATSAT client 10 5
+22. RES, 1646678962.662353, to->(CLI:client), AT Juzang 0.25037455558776855 client +34.068931-118.445127 1646678962.249404
+{
+  "html_attributions": [],
+  "next_page_token": "Aap_uEDpV5MCiOChmNKowPVbnajnEVm5hO_9G0L7qaEaWcNgGK5SY0SJgFrGcq9zfPPkKnNCUQHfBpctCxvUHLFEJCc0Vf5IA2YyOeEV6zUAm1Onc1V_9AUoqEhIQVXQYGBiurXtavqXvJBxOimwtZcboO8VJJCpNmx9Y3bf-dzoIApL23rjApyETRQu9H9e4PJSEcAtzSQVWkivLn2_Phi7Ics_EJxyCYwSPuz_ZEGKFmdMZ666DTLcCdl8HCp7rNUjgOd8GIPnPK6QNWI_2qKPciQcWCmi7N7tMvq9lZJMIjlzqBrzX_Y36wMsEv0JKG7ujlQ0PipZeV-W_gtZYSrmr4bqd_eoxFVM0-90jIQ_s-NdM2AZsU0Vz0Nb62giSEJkS_EQH0mQNlfhLM6H-tDL9tsZi_Vj6GwiSqhUYWGYfzsE",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 34.0522342,
+          "lng": -118.2436849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.33730608759191,
+            "lng": -118.155289077463
+          },
+          "southwest": {
+            "lat": 33.70365193147634,
+            "lng": -118.6681759484859
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles",
+      "photos": [
+        {
+          "height": 746,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108862076113400282635\">AROUND THE WORLD</a>"
+          ],
+          "photo_reference": "Aap_uEDyJ4lyfQDZltKA1cem0JXwsWKafFQubzBs87JgM1gm4yr5zOTpk6qcGOJAfpL0Ed3pHUkgD3GBK5KtVFf1mNe9-1llIV_3K2dw30b6QLkiA-hHElmfBghrBZhZxshyRHU0erVDi3otmeBPpjHdpbttb8F6yvveM2bcJ8IBB68Lhhx6",
+          "width": 1079
+        }
+      ],
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "scope": "GOOGLE",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "vicinity": "Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0632746,
+          "lng": -118.4409504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0646108802915,
+            "lng": -118.4398087197085
+          },
+          "southwest": {
+            "lat": 34.0619129197085,
+            "lng": -118.4425066802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "W Los Angeles - West Beverly Hills",
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+          ],
+          "photo_reference": "Aap_uEBg6C3E_6dIVV7quZWGeV-Wf4rXKks26ZLo9pS27JPlwc1cIBQ4Pvyw19gwLsWr_vP8fIP7znwZRzYZnvE4Xxf5QKOsOPBPxCPK7DeMYHTTmzH9y7MJslIcTvfmR8QH0a8NQvcRp7FTyhlfXlscBj8lO1e11TaDozsPCft3ziO4pjl8",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+      "plus_code": {
+        "compound_code": "3H75+8J Los Angeles, CA, USA",
+        "global_code": "85633H75+8J"
+      },
+      "rating": 4.2,
+      "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1144,
+      "vicinity": "930 Hilgard Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0606386,
+          "lng": -118.4429771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.0620311302915,
+            "lng": -118.4417359197085
+          },
+          "southwest": {
+            "lat": 34.0593331697085,
+            "lng": -118.4444338802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Royal Palace Westwood Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107513054366925301603\">Jose Solorio Gonzalez</a>"
+          ],
+          "photo_reference": "Aap_uECvTWThj77jChGjBhdFM5r_d12iPnzVz2FchXpMNu81j89XoF9jw705hQL1F2xa2-_NH_Opxlku3LJgjmDYqgY-CFd7doEzuoyC2kGCWYxBUMMHGbma_Yv0N3pHZ7MxOKw8yUT1edz7xTxzH7Eu28CDR2LCH8SB3wNulfIwPqMyaY-w",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "plus_code": {
+        "compound_code": "3H64+7R Los Angeles, CA, USA",
+        "global_code": "85633H64+7R"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268,
+      "vicinity": "1052 Tiverton Avenue, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0677273,
+          "lng": -118.426036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06895858029149,
+            "lng": -118.4244877697085
+          },
+          "southwest": {
+            "lat": 34.0662606197085,
+            "lng": -118.4271857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beverly Hills Plaza Hotel & Spa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113734743894785553135\">Ksenia Busheva</a>"
+          ],
+          "photo_reference": "Aap_uEDwWeZj4qfNHkuxyg-jVIXeSYENnCKnfFnWNhFhyHTj57WJA3930Kb_Vwx9physyztmNCXmWuYDpfOBRmVkFyMRkKc4CMYHCeFqqcWyL8fJd2Ft0y2DKnxCP42tQrmqRGmgbtQwQkamFJ1gMdWOmlnosomlX_jl3bIBsA0AD0yRmf7h",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "plus_code": {
+        "compound_code": "3H9F+3H Los Angeles, CA, USA",
+        "global_code": "85633H9F+3H"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 387,
+      "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 34.0737527,
+          "lng": -118.4682129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07501653029149,
+            "lng": -118.4668231197085
+          },
+          "southwest": {
+            "lat": 34.0723185697085,
+            "lng": -118.4695210802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel Angeleno",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4013,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109137024387790382898\">Hotel Angeleno</a>"
+          ],
+          "photo_reference": "Aap_uEAc8Yis0wIMD98eNWNVG4Ohsxn8cEQCfu9hPn5yIXO9LCW4mJRO9V2kIf-6GxCzJM_IZWwBnPpLGJ61yka7K47SKEsszPRhoYav2KzdQph2mMPan3p4IZFV1c9ybkidjIg-VM3idZHRqbfbfJ72WzZSTnKz5sMSK-e2s-Q0y_Lz3cxg",
+          "width": 5375
+        }
+      ],
+      "place_id": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "plus_code": {
+        "compound_code": "3GFJ+GP Los Angeles, CA, USA",
+        "global_code": "85633GFJ+GP"
+      },
+      "rating": 4,
+      "reference": "ChIJt37HtsC8woARLi6S2eMbe_o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1523,
+      "vicinity": "170 North Church Lane, Los Angeles"
+    }
+  ],
+  "status": "OK"
+}
+
+--------------------------------------
+(1646678964.5182912, '2022-03-07 10:49:24')
+1. DBG, 1646678964.5193214, In main!
+2. DBG, 1646678966.296511, I recieved a request! currently in handle_connection
+3. REQ, 1646678966.2974432, PROPAG_CMSG Johnson Johnson client_test 1646678966.2937706 +34.06893-118.445127
+4. SOC, 1646678966.3000326, to: Juzang
+5. RES, 1646678966.301093, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678966.2937706 +34.06893-118.445127
+6. SCC, 1646678966.3033457, to: Juzang
+7. SOC, 1646678966.3049886, to: Jaquez
+8. RES, 1646678966.3064277, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678966.2937706 +34.06893-118.445127
+9. SCC, 1646678966.3071964, to: Jaquez
+10. DBG, 1646678966.3086433, I recieved a request! currently in handle_connection
+11. REQ, 1646678966.3096924, PROPAG_CMSG Juzang Johnson,Juzang client_test 1646678966.2937706 +34.06893-118.445127
+12. SOC, 1646678966.3147948, to: Jaquez
+13. RES, 1646678966.3157327, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646678966.2937706 +34.06893-118.445127
+14. SCC, 1646678966.3179448, to: Jaquez
+15. DBG, 1646678966.322518, I recieved a request! currently in handle_connection
+16. REQ, 1646678966.323681, PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646678966.2937706 +34.06893-118.445127
+
+--------------------------------------
+(1646678968.9000018, '2022-03-07 10:49:28')
+1. DBG, 1646678968.9011204, In main!
+
+--------------------------------------
+(1646678972.0565307, '2022-03-07 10:49:32')
+1. DBG, 1646678972.0575593, In main!
+2. DBG, 1646678973.837012, I recieved a request! currently in handle_connection
+3. REQ, 1646678973.8377304, PROPAG_CMSG Johnson Johnson client_test 1646678973.8339891 +34.06893-118.445127
+4. SOC, 1646678973.8408527, to: Juzang
+5. RES, 1646678973.8422625, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678973.8339891 +34.06893-118.445127
+6. SCC, 1646678973.843246, to: Juzang
+7. SOC, 1646678973.8446856, to: Jaquez
+8. RES, 1646678973.845366, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678973.8339891 +34.06893-118.445127
+9. SCC, 1646678973.8459315, to: Jaquez
+10. DBG, 1646678973.8474715, I recieved a request! currently in handle_connection
+11. REQ, 1646678973.8599432, PROPAG_CMSG Juzang Johnson,Juzang client_test 1646678973.8339891 +34.06893-118.445127
+12. SOC, 1646678973.8632977, to: Jaquez
+13. RES, 1646678973.8656385, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646678973.8339891 +34.06893-118.445127
+14. SCC, 1646678973.8678374, to: Jaquez
+15. DBG, 1646678973.86952, I recieved a request! currently in handle_connection
+16. REQ, 1646678973.8707008, PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646678973.8339891 +34.06893-118.445127
+
+--------------------------------------
+(1646678976.3660748, '2022-03-07 10:49:36')
+1. DBG, 1646678976.3670177, In main!
+2. DBG, 1646678978.145683, I recieved a request! currently in handle_connection
+3. REQ, 1646678978.146342, IAMAT 2client2 -34.06894+119.445127 1646678978.1449933
+4. SOC, 1646678978.147458, to: Juzang
+5. RES, 1646678978.148232, to->(SRV:Juzang), PROPAG_CMSG Bernard Bernard 2client2 1646678978.1449933 -34.06894+119.445127
+6. SCC, 1646678978.1489372, to: Juzang
+7. SOC, 1646678978.149897, to: Jaquez
+8. RES, 1646678978.151038, to->(SRV:Jaquez), PROPAG_CMSG Bernard Bernard 2client2 1646678978.1449933 -34.06894+119.445127
+9. SCC, 1646678978.1522887, to: Jaquez
+10. SOC, 1646678978.1537097, to: Johnson
+11. RES, 1646678978.155109, to->(SRV:Johnson), PROPAG_CMSG Bernard Bernard 2client2 1646678978.1449933 -34.06894+119.445127
+12. SCC, 1646678978.1565866, to: Johnson
+13. RES, 1646678978.1584578, to->(CLI:2client2), AT Bernard 0.001348733901977539 2client2 -34.06894+119.445127 1646678978.1449933
+14. DBG, 1646678978.1624572, I recieved a request! currently in handle_connection
+15. REQ, 1646678978.1636658, PROPAG_CMSG Johnson Johnson client_test 1646678978.158799 +34.06893-118.445127
+16. SOC, 1646678978.1696725, to: Juzang
+17. RES, 1646678978.1709669, to->(SRV:Juzang), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678978.158799 +34.06893-118.445127
+18. SCC, 1646678978.171887, to: Juzang
+19. SOC, 1646678978.1733618, to: Jaquez
+20. RES, 1646678978.174888, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Bernard client_test 1646678978.158799 +34.06893-118.445127
+21. SCC, 1646678978.176496, to: Jaquez
+22. DBG, 1646678978.1837876, I recieved a request! currently in handle_connection
+23. REQ, 1646678978.1844847, PROPAG_CMSG Juzang Johnson,Juzang client_test 1646678978.158799 +34.06893-118.445127
+24. SOC, 1646678978.1883652, to: Jaquez
+25. RES, 1646678978.1893773, to->(SRV:Jaquez), PROPAG_CMSG Bernard Johnson,Juzang,Bernard client_test 1646678978.158799 +34.06893-118.445127
+26. SCC, 1646678978.190735, to: Jaquez
+27. DBG, 1646678978.1934352, I recieved a request! currently in handle_connection
+28. REQ, 1646678978.194079, PROPAG_CMSG Jaquez Johnson,Juzang,Clark,Jaquez client_test 1646678978.158799 +34.06893-118.445127
